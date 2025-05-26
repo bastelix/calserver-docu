@@ -115,3 +115,14 @@ Dieses Kapitel gibt einen Überblick über die sicherheitsrelevanten Funktionen 
 - [Benutzerrollen und Berechtigungen](docs/sicherheitsmanagement/benutzerrollen-und-berechtigungen.md)
 - [Passwortverwaltung](docs/sicherheitsmanagement/passwortverwaltung.md)
 - [Verwaltung der Zugriffssicherheit und Sicherheitsprotokolle](docs/sicherheitsmanagement/verwaltung-der-zugriffssicherheit-und-sicherheitsprotokolle.md)
+
+## Lokale Vorschau
+
+Die Dokumentation nutzt jetzt das **Just the Docs** Theme. Um die Seite lokal zu testen, wird Ruby mit Bundler benötigt. Anschließend können die Abhängigkeiten installiert und der Server gestartet werden:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Der Server läuft danach unter http://localhost:4000.
