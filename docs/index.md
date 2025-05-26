@@ -7,8 +7,6 @@ permalink: /index.html
 
 *Stand: 2025-05-26*
 
-Dies ist die Dokumentation zu **calServer**. Das Projekt nutzt GitHub Pages, um die Handbücher und technischen Informationen bereitzustellen. Die jeweils aktuelle Version des Handbuchs ist über GitHub Pages erreichbar: [https://bastelix.github.io/calserver-docu](https://bastelix.github.io/calserver-docu).
-
 # Willkommen zum calServer Manual
 
 **Herzlich willkommen zur offiziellen Dokumentation von calServer!**
