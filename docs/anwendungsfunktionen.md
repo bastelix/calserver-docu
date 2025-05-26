@@ -7,4 +7,4 @@ has_children: True
 
 # Anwendungsfunktionen
 
-Dieses Kapitel führt in die verschiedenen Module von calServer ein.
+Dieses Kapitel stellt Ihnen die wichtigsten Anwendungsfunktionen von calServer im Detail vor. Sie erhalten praktische Einblicke und Erklärungen zu den verschiedenen Modulen, um die Arbeitsprozesse rund um Inventarverwaltung, Kalibrierungen, Wartungen und weitere Aufgaben effizient und zielgerichtet durchführen zu können.

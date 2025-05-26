@@ -7,4 +7,4 @@ has_children: True
 
 # Einleitung
 
-Noch in Bearbeitung.
+Dieses Kapitel führt Sie gezielt in die Anwendung calServer ein. Sie erfahren, welchen Nutzen die Software für Ihre tägliche Arbeit bietet, erhalten einen kompakten Überblick über den Funktionsumfang und lernen die grundlegenden technischen Anforderungen kennen, um optimal mit calServer zu arbeiten.
