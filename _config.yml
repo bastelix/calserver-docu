@@ -1,1 +1,16 @@
-theme: jekyll-theme-cayman
+# General configuration for Jekyll
+
+# Set the site title
+title: calServer Manual
+
+# Use the modern "Just the Docs" theme
+remote_theme: just-the-docs/just-the-docs
+
+# Enable search (default for the theme)
+search_enabled: true
+
+# Color scheme can be light or dark
+color_scheme: light
+
+# Collections or defaults can be added here later
+
