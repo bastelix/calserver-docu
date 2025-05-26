@@ -41,102 +41,39 @@ Die Zeichen **✔** (enthalten) und **✖** (nicht enthalten) zeigen an, in welc
 
 ---
 
-| **Modul & Kurzbeschreibung** | **BASIS** | **PROFESSIONAL** | **EXPERT** | **EXPERT
-(OnPremise)** |
+| **Modul & Kurzbeschreibung** | **BASIS** | **PROFESSIONAL** | **EXPERT** | **EXPERT (OnPremise)** |
 | --- | --- | --- | --- | --- |
-| **Inventarverwaltung** 
-(inventory_management)
-Verwaltung von Inventar, inkl. Kategorisierung und Statusverfolgung. | ✔ | ✔ | ✔ | ✔ |
-| **Kalibrierverwaltung**
-(calibration_management)
-Erfassung und Nachverfolgung von Kalibrierungen (Status, Messwerte, einfache Benachrichtigungen). | ✔ | ✔ | ✔ | ✔ |
-| **Kundenverwaltung**
-(customer_management)
-Pflege von Kundenstammdaten, Historien und Freigaben. | ✔ | ✔ | ✔ | ✔ |
-| **Kontaktverwaltung**
-(contact_management)
-Anlegen, Bearbeiten und Verwalten von Kontakten; zentrales Adress- und Ansprechpartner-Management. | ✔ | ✔ | ✔ | ✔ |
-| **Typenverwaltung**
-(type_management)
-Definieren und Ändern von Gerätekategorien oder Klassifikationen. | ✔ | ✔ | ✔ | ✔ |
-| **Benutzerverwaltung**
-(user_management)
-Anlage und Pflege von Benutzerkonten, Rechtezuweisung und Passwortregeln. | ✔ | ✔ | ✔ | ✔ |
-| **Datei Verwaltung** 
-(file_management)
-Dokumentenablage (DMS), Bearbeitung und Versionierung, Upload/Download-Funktionen. | ✔ | ✔ | ✔ | ✔ |
-| **Aufgabenverwaltung** 
-(notepad_management)
-Pflege von Aufgaben, Kalendernotizen, To-do-Listen. | ✔ | ✔ | ✔ | ✔ |
-| **Hilfeverwaltung** 
-(help_management)
-Administration von Hilfetexten, FAQs und Manuals im System. | ✔ | ✔ | ✔ | ✔ |
-| **Grundeinstellungen** 
-(basic_settings)
-Übergeordnete Systemkonfiguration für eigenes CI-/Design, Passwortregeln und individuelle Abrufintervalle (z. B. Sprache, Regelverwaltung). | ✔ | ✔ | ✔ | ✔ |
-| **Feldverwaltung**
-(field_management)
-Konfiguration und Erstellung von Datenfeldern, Tabellenvorlagen und Layouts. | **✔** | ✔ | ✔ | ✔ |
-| **Wartungmanagement**
-(repair_management)
-Planung und Durchführung von Wartungen/Reparaturen mit Statusverfolgung. | ✖ | ✔ | ✔ | ✔ |
-| **Leih- und Standortverwaltung** 
-(rental_management)
-Verwaltung von Leihobjekten, Reservierungen und Standorten. | ✖ | ✔ | ✔ | ✔ |
-| **Meldungsverwaltung** 
-(support_management)
-Verwaltung von Supporttickets/Meldungen, inkl. Erstellung, Bearbeitung, Benachrichtigungen. | ✖ | ✔ | ✔ | ✔ |
-| **Email Verwaltung** 
-(email_management)
-*Administration und Konfiguration von E-Mail-Funktionen (SMTP, Mailcomposer), inkl. personalisierter Abruflisten und automatischer Versand in frei definierbaren Intervallen.* | **✖** | **✔** | **✔** | **✔** |
-| **Auftragsverwaltung** 
-(booking_management)
-Erstellung, Bearbeitung und Historie von Aufträgen, Bestellungen und Bestellpositionen. | ✖ | **✔** | ✔ | ✔ |
-| **Artikelverwaltung**
-(article_management)
-Anlegen, Bearbeiten und Verwalten von Artikeln zu Aufträgen. | ✖ | ✔ | ✔ | ✔ |
-| **Preisverwaltung** 
-(price_management)
-Festlegen und Bearbeiten von Preisen und Preiskategorien. | ✖ | ✔ | ✔ | ✔ |
-| **Erweitertes Reporting**
-(JasperReports_Starter)
-Erweiterte Berichtserstellung mittels Integration JasperReports Berichte, Administration und Anzeige komplexer Auswertungen, wie Kalibrierscheine. | ✖ | **✔** | ✔ | ✔ |
-| **Prozedurverwaltung** 
-(procedure_management)
-Definition und Pflege von Prozeduren bzw. Prozessabläufen (inkl. Vorlagen). | ✖ | ✖  | ✔ | ✔ |
-| **Messungen** 
-(measurements)
-Anlage, Bearbeitung und Anzeige von Messwerten im Kontext von Kalibrierungen. | ✖ | ✖ | ✔ | ✔ |
-| **Schnellerfassung** (fast_insert) 
-**Dokumentenleser** (document_reader)
-*Erfasst externe PDF-Dokumente (z. B. Kalibrierscheine) und erstellt automatisch Inventar- und Kalibrierungseinträge.* | **✖** | ✖ | ✔ | ✔ |
-| **Schnellerfassung** (fast_insert) 
-**Quick Actions** (quick_actions)
-*Ermöglicht schnelles Erfassen von Statusupdates und das rasche Anlegen von Aufträgen (z. B. via Barcode-Scan) für mehrere Geräte gleichzeitig.* | **✖** | ✖ | ✔ | ✔ |
-| **Schnellerfassung** (fast_insert) 
-**Tableimport (Vorlagen)** (tableimport)
-*Ermöglicht den wiederkehrenden Import von Inventar- oder Kalibrierdaten aus Excel/Vorlagen, um regelmäßig externe Daten einzuspielen.* | **✖** | ✖ | ✔ | ✔ |
-| **Schnellerfassung** (fast_insert) 
-**Individual Delivery Report** (individual_delivery_report)*Erstellt auf Knopfdruck individualisierte Liefer- oder Ergebnisberichte.* | **✖** | ✖ | ✔ | ✔ |
-| **Spezifikationenverwaltung** 
-(specification_management)
-Verwaltung von Spezifikationen, Normen und ähnlichen Vorgaben. | ✖ | ✖ | ✔ | ✔ |
-| **Ressourcen Management** 
-(resource_management)
-Verwaltung von Systemressourcen, Zuweisungen und Bearbeitungen. | ✖ | ✖ | ✔ | ✔ |
-| **Laborspezifikationsverwaltung**
-(quality_provision_management)
-Verwaltung von Laboranforderungen, Messunsicherheiten und Qualitätsstandards. | ✖ | ✖ | ✔ | ✔ |
-| **Erweiterte Sicherungsverwaltung**
-(backup_management)
-Umfassendes Datenbank- und Dateibackup-Management, erweiterte Konfiguration von Sicherungen. | ✖ | ✖ | ✖ | ✔ |
-| **Replikationsverwaltung** 
-(symmetric_management)
-Ermöglicht die Datenbanksynchronisation in verteilten Umgebungen, inklusive Schnittstellen für FLUKE MET/TEAM und/oder FLUKE MET/TRACK (bidirektionaler Abgleich von Kunden- , Inventar- , Kalibrierungs- und Messdaten). | ✖ | ✖ | ✖ | ✔ |
-| **SSO Provider** 
-(sso_provider)
-*Integration externer Identity Provider (z. B. Active Directory, Entra ID, Google) zur zentralen Benutzeranmeldung, Profilsynchronisation und Verwaltung.* | ✖ | ✖ | ✖ | ✔ |
-|  |  |  |  |  |
+| **Inventarverwaltung**<br>(inventory_management)<br>Verwaltung von Inventar, inkl. Kategorisierung und Statusverfolgung. | ✔ | ✔ | ✔ | ✔ |
+| **Kalibrierverwaltung**<br>(calibration_management)<br>Erfassung und Nachverfolgung von Kalibrierungen (Status, Messwerte, einfache Benachrichtigungen). | ✔ | ✔ | ✔ | ✔ |
+| **Kundenverwaltung**<br>(customer_management)<br>Pflege von Kundenstammdaten, Historien und Freigaben. | ✔ | ✔ | ✔ | ✔ |
+| **Kontaktverwaltung**<br>(contact_management)<br>Anlegen, Bearbeiten und Verwalten von Kontakten; zentrales Adress- und Ansprechpartner-Management. | ✔ | ✔ | ✔ | ✔ |
+| **Typenverwaltung**<br>(type_management)<br>Definieren und Ändern von Gerätekategorien oder Klassifikationen. | ✔ | ✔ | ✔ | ✔ |
+| **Benutzerverwaltung**<br>(user_management)<br>Anlage und Pflege von Benutzerkonten, Rechtezuweisung und Passwortregeln. | ✔ | ✔ | ✔ | ✔ |
+| **Datei Verwaltung**<br>(file_management)<br>Dokumentenablage (DMS), Bearbeitung und Versionierung, Upload/Download-Funktionen. | ✔ | ✔ | ✔ | ✔ |
+| **Aufgabenverwaltung**<br>(notepad_management)<br>Pflege von Aufgaben, Kalendernotizen, To-do-Listen. | ✔ | ✔ | ✔ | ✔ |
+| **Hilfeverwaltung**<br>(help_management)<br>Administration von Hilfetexten, FAQs und Manuals im System. | ✔ | ✔ | ✔ | ✔ |
+| **Grundeinstellungen**<br>(basic_settings)<br>Übergeordnete Systemkonfiguration für eigenes CI-/Design, Passwortregeln und individuelle Abrufintervalle (z. B. Sprache, Regelverwaltung). | ✔ | ✔ | ✔ | ✔ |
+| **Feldverwaltung**<br>(field_management)<br>Konfiguration und Erstellung von Datenfeldern, Tabellenvorlagen und Layouts. | **✔** | ✔ | ✔ | ✔ |
+| **Wartungmanagement**<br>(repair_management)<br>Planung und Durchführung von Wartungen/Reparaturen mit Statusverfolgung. | ✖ | ✔ | ✔ | ✔ |
+| **Leih- und Standortverwaltung**<br>(rental_management)<br>Verwaltung von Leihobjekten, Reservierungen und Standorten. | ✖ | ✔ | ✔ | ✔ |
+| **Meldungsverwaltung**<br>(support_management)<br>Verwaltung von Supporttickets/Meldungen, inkl. Erstellung, Bearbeitung, Benachrichtigungen. | ✖ | ✔ | ✔ | ✔ |
+| **Email Verwaltung**<br>(email_management)<br>*Administration und Konfiguration von E-Mail-Funktionen (SMTP, Mailcomposer), inkl. personalisierter Abruflisten und automatischer Versand in frei definierbaren Intervallen.* | **✖** | **✔** | **✔** | **✔** |
+| **Auftragsverwaltung**<br>(booking_management)<br>Erstellung, Bearbeitung und Historie von Aufträgen, Bestellungen und Bestellpositionen. | ✖ | **✔** | ✔ | ✔ |
+| **Artikelverwaltung**<br>(article_management)<br>Anlegen, Bearbeiten und Verwalten von Artikeln zu Aufträgen. | ✖ | ✔ | ✔ | ✔ |
+| **Preisverwaltung**<br>(price_management)<br>Festlegen und Bearbeiten von Preisen und Preiskategorien. | ✖ | ✔ | ✔ | ✔ |
+| **Erweitertes Reporting**<br>(JasperReports_Starter)<br>Erweiterte Berichtserstellung mittels Integration JasperReports Berichte, Administration und Anzeige komplexer Auswertungen, wie Kalibrierscheine. | ✖ | **✔** | ✔ | ✔ |
+| **Prozedurverwaltung**<br>(procedure_management)<br>Definition und Pflege von Prozeduren bzw. Prozessabläufen (inkl. Vorlagen). | ✖ | ✖  | ✔ | ✔ |
+| **Messungen**<br>(measurements)<br>Anlage, Bearbeitung und Anzeige von Messwerten im Kontext von Kalibrierungen. | ✖ | ✖ | ✔ | ✔ |
+| **Schnellerfassung** (fast_insert)<br>**Dokumentenleser** (document_reader)<br>*Erfasst externe PDF-Dokumente (z. B. Kalibrierscheine) und erstellt automatisch Inventar- und Kalibrierungseinträge.* | **✖** | ✖ | ✔ | ✔ |
+| **Schnellerfassung** (fast_insert)<br>**Quick Actions** (quick_actions)<br>*Ermöglicht schnelles Erfassen von Statusupdates und das rasche Anlegen von Aufträgen (z. B. via Barcode-Scan) für mehrere Geräte gleichzeitig.* | **✖** | ✖ | ✔ | ✔ |
+| **Schnellerfassung** (fast_insert)<br>**Tableimport (Vorlagen)** (tableimport)<br>*Ermöglicht den wiederkehrenden Import von Inventar- oder Kalibrierdaten aus Excel/Vorlagen, um regelmäßig externe Daten einzuspielen.* | **✖** | ✖ | ✔ | ✔ |
+| **Schnellerfassung** (fast_insert)<br>**Individual Delivery Report** (individual_delivery_report)<br>*Erstellt auf Knopfdruck individualisierte Liefer- oder Ergebnisberichte.* | **✖** | ✖ | ✔ | ✔ |
+| **Spezifikationenverwaltung**<br>(specification_management)<br>Verwaltung von Spezifikationen, Normen und ähnlichen Vorgaben. | ✖ | ✖ | ✔ | ✔ |
+| **Ressourcen Management**<br>(resource_management)<br>Verwaltung von Systemressourcen, Zuweisungen und Bearbeitungen. | ✖ | ✖ | ✔ | ✔ |
+| **Laborspezifikationsverwaltung**<br>(quality_provision_management)<br>Verwaltung von Laboranforderungen, Messunsicherheiten und Qualitätsstandards. | ✖ | ✖ | ✔ | ✔ |
+| **Erweiterte Sicherungsverwaltung**<br>(backup_management)<br>Umfassendes Datenbank- und Dateibackup-Management, erweiterte Konfiguration von Sicherungen. | ✖ | ✖ | ✖ | ✔ |
+| **Replikationsverwaltung**<br>(symmetric_management)<br>Ermöglicht die Datenbanksynchronisation in verteilten Umgebungen, inklusive Schnittstellen für FLUKE MET/TEAM und/oder FLUKE MET/TRACK (bidirektionaler Abgleich von Kunden-, Inventar-, Kalibrierungs- und Messdaten). | ✖ | ✖ | ✖ | ✔ |
+| **SSO Provider**<br>(sso_provider)<br>*Integration externer Identity Provider (z. B. Active Directory, Entra ID, Google) zur zentralen Benutzeranmeldung, Profilsynchronisation und Verwaltung.* | ✖ | ✖ | ✖ | ✔ |
 | Kosten pro Monat | **190€** | **290€** | **390€** | **390€** |
 
 **Legende:**
