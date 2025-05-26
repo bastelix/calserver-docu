@@ -2,11 +2,12 @@
 layout: home
 title: calServer Manual
 nav_order: 1
+permalink: /index.html
 ---
 
 *Stand: 2025-05-26*
 
-Hier ein Vorschlag, wie du die **Ankündigung für ein Manual**, die **Lizenzbedingungen** und die **Erklärung des Programms** für das calServer-Manual ausführlicher, ansprechender und professioneller gestalten kannst.
+Dies ist die Dokumentation zu **calServer**. Das Projekt nutzt GitHub Pages, um die Handbücher und technischen Informationen bereitzustellen. Die jeweils aktuelle Version des Handbuchs ist über GitHub Pages erreichbar: [https://bastelix.github.io/calserver-docu](https://bastelix.github.io/calserver-docu).
 
 # Willkommen zum calServer Manual
 
@@ -47,7 +48,14 @@ calServer erfüllt sämtliche Vorgaben der Datenschutz-Grundverordnung (DSGVO). 
 Bei Fragen, Anregungen oder Unterstützungsbedarf steht Ihnen unser Support-Team gerne zur Verfügung.
 Weitere Informationen und Kontaktmöglichkeiten finden Sie unter: [calserver.com/support](https://calserver.com/support)
 
----
+## Lokale Vorschau
 
-[Changelog](changelog.md)
+Die Dokumentation nutzt das **Just the Docs** Theme. Um die Seite lokal zu testen, benötigen Sie Ruby mit Bundler. Installieren Sie die Abhängigkeiten und starten Sie den Server mit:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Der Server läuft anschließend unter <http://localhost:4000>.
 
