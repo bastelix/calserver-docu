@@ -1,0 +1,10 @@
+{% assign children = site.pages | where:"parent", page.title | sort:"nav_order" %}
+{% if children != empty %}
+<hr/>
+<h2 class="text-delta">Unterseiten</h2>
+<ul>
+  {% for child in children %}
+  <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}

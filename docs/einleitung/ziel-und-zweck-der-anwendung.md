@@ -1,3 +1,10 @@
+---
+title: 1.1 Ziel und Zweck der Anwendung
+nav_order: 1
+parent: Einleitung
+layout: page
+---
+
 # 1.1 Ziel und Zweck der Anwendung
 
 # **Einführung**
