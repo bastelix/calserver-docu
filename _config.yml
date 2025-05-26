@@ -26,3 +26,7 @@ aux_links:
   "Impressum": /calserver-docu/impressum
   "Kontakt": /calserver-docu/kontakt
 aux_links_new_tab: true
+
+# Exclude repository README from the generated site
+exclude:
+  - README.md

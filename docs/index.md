@@ -2,6 +2,7 @@
 layout: home
 title: calServer Manual
 nav_order: 1
+permalink: /index.html
 ---
 
 *Stand: 2025-05-26*
