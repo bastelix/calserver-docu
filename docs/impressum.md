@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 nav_exclude: true
+permalink: /impressum/
 ---
 
 # Impressum

@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt
 nav_exclude: true
+permalink: /kontakt/
 ---
 
 # Kontakt

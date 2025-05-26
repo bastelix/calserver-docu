@@ -22,9 +22,9 @@ breadcrumbs: true
 # Auxiliary links shown in the top right corner
 aux_links:
   "GitHub": https://github.com/bastelix/calserver-docu
-  "API": /calserver-docu/api
-  "Impressum": /calserver-docu/impressum
-  "Kontakt": /calserver-docu/kontakt
+  "API": https://bastelix.github.io/calserver-docu/api/
+  "Impressum": https://bastelix.github.io/calserver-docu/impressum/
+  "Kontakt": https://bastelix.github.io/calserver-docu/kontakt/
 aux_links_new_tab: true
 
 # Exclude repository README from the generated site
