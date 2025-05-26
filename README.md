@@ -2,6 +2,8 @@
 
 Dies ist die Dokumentation zu **calServer**. Das Projekt nutzt GitHub Pages, um die Handbücher und technischen Informationen bereitzustellen.
 
+Die Dokumentation verwendet das Jekyll-Theme **Just the Docs** mit aktivierter Suche.
+
 ## Inhaltsverzeichnis
 
 1. [Einleitung](docs/einleitung.md)
