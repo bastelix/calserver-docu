@@ -1,1 +1,6 @@
-<!-- Table of contents disabled -->
+{% if page.toc %}
+<nav aria-label="Inhaltsverzeichnis" class="toc">
+  <h2 class="text-delta" id="toc-title">Inhaltsverzeichnis</h2>
+  {{ page.toc }}
+</nav>
+{% endif %}
