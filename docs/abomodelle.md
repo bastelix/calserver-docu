@@ -4,31 +4,40 @@ nav_order: 9
 layout: page
 ---
 
+
 # Abomodelle
 
-**BASIS**
+## Kurzerklärung
+
+Dieser Abschnitt fasst die wichtigsten Eigenschaften der einzelnen Abo-Modelle kurz zusammen.
+
+### BASIS
 
 Ideal für kleine Unternehmen und Start-ups, die grundlegende Verwaltungsprozesse digital abbilden möchten. Das BASIS-Paket liefert alle wesentlichen Kernfunktionen – von der Inventar- und Kalibrierverwaltung über Kunden- und Kontaktmanagement bis hin zur Datei‑, Aufgaben- und Hilfeverwaltung. Mit den umfassenden Grundeinstellungen und der Feldverwaltung erhalten Sie eine solide Basislösung für die tägliche Administration ohne zusätzlichen Schnickschnack.
 
 ---
 
-**PROFESSIONAL**
+### PROFESSIONAL
 
-Dieses Paket richtet sich an mittelständische Unternehmen, die ihre Prozesse weiter optimieren und automatisieren möchten. Neben allen Funktionen aus dem BASIS-Paket bietet das PROFESSIONAL-Paket erweiterte Module wie Wartungsmanagement, Leih- und Standortverwaltung, Support- und E-Mail-Verwaltung sowie Auftrags-, Artikel- und Preisverwaltung. Die integrierten Funktionen zur Schnellerfassung – inklusive Dokumentenleser, Quick Actions, Tableimport (mit Vorlagen) und Individual Delivery Report – ermöglichen eine zügige und effiziente Datenerfassung. 
+Dieses Paket richtet sich an mittelständische Unternehmen, die ihre Prozesse weiter optimieren und automatisieren möchten. Neben allen Funktionen aus dem BASIS-Paket bietet das PROFESSIONAL-Paket erweiterte Module wie Wartungsmanagement, Leih- und Standortverwaltung, Support- und E-Mail-Verwaltung sowie Auftrags-, Artikel- und Preisverwaltung. Die integrierten Funktionen zur Schnellerfassung – inklusive Dokumentenleser, Quick Actions, Tableimport (mit Vorlagen) und Individual Delivery Report – ermöglichen eine zügige und effiziente Datenerfassung.
 
 ---
 
-**EXPERT**
+### EXPERT
 
 Für große Unternehmen, die einen maximalen Funktionsumfang sowie detaillierte Prozesssteuerung und umfassendes Datenmanagement benötigen, ist das EXPERT-Paket ideal. Es beinhaltet sämtliche Funktionen des PROFESSIONAL-Pakets und erweitert diese um hoch spezialisierte Module wie Prozedurverwaltung und Messungen. Ergänzt wird das Angebot um zusätzliche Managementfunktionen (z. B. Spezifikations- und Ressourcenmanagement, Laborspezifikationsverwaltung), erweiterte Sicherungs- und Replikationslösungen sowie den SSO Provider zur Integration externer Identity Provider. Dieses Paket unterstützt Unternehmen bei komplexen Anforderungen und einer intensiven Daten- und Prozessintegration.
 
 ---
 
-**EXPERT (OnPremise)**
+### EXPERT (OnPremise)
 
 Diese Variante des EXPERT-Pakets bietet denselben umfangreichen Funktionsumfang wie das cloudbasierte EXPERT-Modell, wird jedoch OnPremise bereitgestellt. Sie richtet sich an Organisationen mit strengen Sicherheits- und Compliance-Anforderungen, die ihre IT-Infrastruktur selbst steuern und hosten möchten. Damit erhalten Sie alle erweiterten Funktionen und Module – inklusive Prozedurverwaltung, Messungen und SSO Provider – in einer Umgebung, die Sie vollständig kontrollieren.
 
-**Übersicht**
+## Zielgruppenerklärung
+
+Die folgende Tabelle zeigt, welches Abo sich für welche Zielgruppe eignet.
+
+### Übersicht
 
 | **Abo-Plan** | **Enthaltene Funktionen** | **Zielgruppe** |
 | --- | --- | --- |
@@ -39,7 +48,9 @@ Diese Variante des EXPERT-Pakets bietet denselben umfangreichen Funktionsumfang 
 
 Die Zeichen **✔** (enthalten) und **✖** (nicht enthalten) zeigen an, in welchem Abo ein Modul verfügbar ist.
 
----
+## Detaillierte Modulübersicht
+
+Die nachfolgende Tabelle listet alle Module und zeigt, in welchen Abos sie enthalten sind.
 
 | **Modul & Kurzbeschreibung** | **BASIS** | **PROFESSIONAL** | **EXPERT** | **EXPERT (OnPremise)** |
 | --- | --- | --- | --- | --- |
