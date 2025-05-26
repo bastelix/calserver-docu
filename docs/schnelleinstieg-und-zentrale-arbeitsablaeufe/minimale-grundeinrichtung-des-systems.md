@@ -1,6 +1,6 @@
 ---
 title: Minimale Grundeinrichtung des Systems
-nav_order: 2
+nav_order: 1
 parent: Schnelleinstieg und zentrale Arbeitsabläufe
 layout: page
 ---
