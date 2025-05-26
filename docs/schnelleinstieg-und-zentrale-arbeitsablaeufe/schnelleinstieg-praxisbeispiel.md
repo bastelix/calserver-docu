@@ -1,7 +1,7 @@
 ---
 title: Schnelleinstieg: Praxisbeispiel
-nav_order: 4
-parent: Einleitung
+nav_order: 2
+parent: Schnelleinstieg und zentrale Arbeitsabläufe
 layout: page
 ---
 
