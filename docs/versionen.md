@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Versionshinweise
-nav_order: 11
+nav_order: 10
 ---
 
 # Versionshinweise
+
+Hier finden Sie eine Übersicht der wichtigsten Änderungen und Versionshinweise zu calServer.
+
 
 ## Version 4.67
 
