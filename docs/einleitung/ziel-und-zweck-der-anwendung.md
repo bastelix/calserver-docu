@@ -1,19 +1,19 @@
 ---
-title: 1.1 Ziel und Zweck der Anwendung
+title: Ziel und Zweck der Anwendung
 nav_order: 1
 parent: Einleitung
 layout: page
 ---
 
-# 1.1 Ziel und Zweck der Anwendung
+# Ziel und Zweck der Anwendung
 
-# **Einführung**
+## Einführung
 
 calServer ist eine **leistungsstarke und innovative Softwarelösung**, die Unternehmen bei der **digitalen Transformation** unterstützt und Geschäftsprozesse optimiert. Die Software bietet umfassende Funktionen in den Bereichen **Inventarverwaltung, Kalibrierplanung, Wartungsmanagement und Dokumentation**. Sie wurde speziell für Unternehmen entwickelt, die **Messmittel, Prüfgeräte und technische Assets** verwalten müssen.
 
 calServer ermöglicht es, **Kalibrierprozesse zu digitalisieren, Wartungen effizient zu planen und die Rückverfolgbarkeit von Messmitteln sicherzustellen**. Durch den **modularen Aufbau** kann die Software individuell an die Bedürfnisse jedes Unternehmens angepasst werden.
 
-## **Zielgruppe**
+## Zielgruppe
 
 calServer wurde primär für **Kalibrier- und Prüflabore sowie Messmittelverwaltungen** entwickelt. Die Software ist speziell darauf ausgelegt, Kalibrierprozesse zu digitalisieren, Wartungen effizient zu planen und die Rückverfolgbarkeit von Messmitteln sicherzustellen.
 
@@ -27,7 +27,7 @@ calServer richtet sich an:
 - **Fertigungs- und Produktionsbetriebe**, die ihre **Messmittelverwaltung automatisieren** möchten
 - **Behörden und Institutionen**, die gesetzliche Prüfanforderungen einhalten müssen
 
-## **Kernfunktionen**
+## Kernfunktionen
 
 calServer deckt folgende Hauptbereiche ab:
 
@@ -40,7 +40,7 @@ calServer deckt folgende Hauptbereiche ab:
 - **Cloud-basierte Technologie**: Effektive Zusammenarbeit und standortunabhängige Nutzung
 - **API-Integration**: Möglichkeit zur Anbindung an externe Systeme und Schnittstellen
 
-## **Nutzen und Vorteile**
+## Nutzen und Vorteile
 
 calServer bietet Unternehmen eine **strukturierte, digitale Lösung** für ihre Messmittel- und Geräteverwaltung. Zu den wichtigsten Vorteilen gehören:
 
@@ -51,7 +51,7 @@ calServer bietet Unternehmen eine **strukturierte, digitale Lösung** für ihre 
 - **Cloud- und On-Premise-Nutzung**: Flexible Bereitstellung je nach Bedarf
 - **Erhöhte Transparenz**: Zentralisierte Datenverwaltung und automatische Berichterstellung
 
-## **Zusammenfassung**
+## Zusammenfassung
 
-calServer ist eine umfassende Lösung für Unternehmen, die **Inventare, Kalibrierungen und Wartungen effizient verwalten** möchten. Die Software ermöglicht eine **digitale, transparente und revisionssichere Dokumentation** aller relevanten Prozesse und hilft dabei, **Qualitätsstandards einzuhalten und Ressourcen optimal zu nutzen**. Dieses Handbuch bietet eine **umfassende Einführung in die Funktionen, die Installation und die Nutzung von calServer**, um den vollen Funktionsumfang der Software bestmöglich auszuschöpfe
+calServer ist eine umfassende Lösung für Unternehmen, die **Inventare, Kalibrierungen und Wartungen effizient verwalten** möchten. Die Software ermöglicht eine **digitale, transparente und revisionssichere Dokumentation** aller relevanten Prozesse und hilft dabei, **Qualitätsstandards einzuhalten und Ressourcen optimal zu nutzen**. Dieses Handbuch bietet eine **umfassende Einführung in die Funktionen, die Installation und die Nutzung von calServer**, um den vollen Funktionsumfang der Software bestmöglich auszuschöpfen.
 

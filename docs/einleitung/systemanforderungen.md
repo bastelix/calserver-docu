@@ -1,27 +1,27 @@
 ---
-title: 1.3 Systemanforderungen
+title: Systemanforderungen
 nav_order: 3
 parent: Einleitung
 layout: page
 ---
 
-# 1.3 Systemanforderungen
+# Systemanforderungen
 
 calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgebung bereitgestellt wird. Um eine reibungslose Nutzung zu gewährleisten, müssen bestimmte **Systemanforderungen** erfüllt sein. Diese Anforderungen sind abhängig von der **Hosting-Umgebung**, der **Anzahl der Anwendenden** und der **Nutzungsintensität**.
 
 ---
 
-## **1. Softwareanforderungen**
+## 1. Softwareanforderungen
 
-### **Für Server-Hosting (On-Premise Installation)**
+### Für Server-Hosting (On-Premise Installation)
 
 - **Betriebssystem:** Linux (Ubuntu 22.04 LTS empfohlen) oder Windows Server 2019/2022
 - **Laufzeitumgebung:** Docker & Docker Compose oder Kubernetes mit Helm Chart (empfohlen für Deployment)
 - **Speicherplatz:** Mindestens 40 GB, empfohlen 100 GB (abhängig von der Anzahl der Dokumente)
 
-### **Für Client-Nutzung (Browserbasiert)**
+### Für Client-Nutzung (Browserbasiert)
 
-- **Unterstützte Browser:**
+- **Unterstützte Browser:
     - Mozilla Firefox
     - Google Chrome
     - Microsoft Edge
@@ -34,9 +34,9 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## **2. Hardwareanforderungen**
+## 2. Hardwareanforderungen
 
-### **Für Server (On-Premise Hosting)**
+### Für Server (On-Premise Hosting)
 
 | Komponente | Mindestanforderung | Empfohlen |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 | Speicherplatz | 40 GB | 100 GB oder mehr (je nach Anzahl der Dateien) |
 | Netzwerk | Gigabit-Anbindung | 10 Gbit (für große Installationen) |
 
-### **Für Client-Geräte (Anwendende)**
+### Für Client-Geräte (Anwendende)
 
 | Gerät | Mindestanforderung |
 | --- | --- |
@@ -53,14 +53,14 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 | Tablet | Android 10+ oder iPadOS 14+ |
 | Smartphone | Android 10+ oder iOS 14+ |
 
-### **Monitor-Auflösung**
+### Monitor-Auflösung
 
 - **Mindestauflösung:** 1920 x 1080 Pixel (HD-Format) für eine optimale Darstellung
 - Responsive Design ermöglicht grundsätzlich eine Nutzung auch auf kleineren Displays, jedoch sind insbesondere Tabellen nur eingeschränkt nutzbar und sollten dann extra hierfür konfiguriert werden
 
 ---
 
-## **3. Netzwerk- & Sicherheitsanforderungen**
+## 3. Netzwerk- & Sicherheitsanforderungen
 
 - **SSL-Verschlüsselung (HTTPS)** ist zwingend erforderlich für den sicheren Datentransfer.
 - **Firewall-Regeln:** Portfreigabe für Webserver (Standard: 443 HTTPS, 80 HTTP nur für Weiterleitungen).
@@ -70,7 +70,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## **4. Passwort-Richtlinie**
+## 4. Passwort-Richtlinie
 
 - Passwörter müssen den **üblichen Sicherheitskriterien** entsprechen
 - Kunden können eigene Regeln konfigurieren (Mindestlänge, Sonderzeichen, Ablaufdatum etc.)
@@ -79,7 +79,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## **5. Spam- & Cookie-Richtlinien**
+## 5. Spam- & Cookie-Richtlinien
 
 - calServer bietet **Sicherheitsmechanismen** wie Captcha-Formularschutz
 - Diese können vom Kunden konfiguriert werden
@@ -87,7 +87,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## **6. Skalierbarkeit & Performance**
+## 6. Skalierbarkeit & Performance
 
 - **Dynamische Skalierung möglich** bei Cloud-Hosting (Lastverteilung über mehrere Instanzen)
 - **Cache-Unterstützung:** Redis oder Memcached für optimierte Performance
@@ -95,6 +95,6 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-### **Zusammenfassung**
+### Zusammenfassung
 
 Die Systemanforderungen für **calServer** hängen von der Hosting-Umgebung und der Nutzung ab. Cloud-Nutzer:innen benötigen lediglich einen **modernen Browser**, während **On-Premise-Installationen** spezifische Server- und Sicherheitsanforderungen erfüllen müssen. Eine regelmäßige **Überwachung und Skalierung** wird für große Installationen empfohlen.
