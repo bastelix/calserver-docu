@@ -1,3 +1,10 @@
+---
+title: 1.2 Überblick über die Funktionen
+nav_order: 2
+parent: Einleitung
+layout: page
+---
+
 # 1.2 Überblick über die Funktionen
 
 calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerrolle individuell konfiguriert und kombiniert werden können. Die folgende Übersicht beschreibt die wichtigsten Systemfunktionen in verschiedenen Kategorien.
