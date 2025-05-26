@@ -6,36 +6,36 @@ layout: page
 
 # Abomodelle
 
-**BASIS (290€/Monat)** 
+**BASIS**
 
 Ideal für kleine Unternehmen und Start-ups, die grundlegende Verwaltungsprozesse digital abbilden möchten. Das BASIS-Paket liefert alle wesentlichen Kernfunktionen – von der Inventar- und Kalibrierverwaltung über Kunden- und Kontaktmanagement bis hin zur Datei‑, Aufgaben- und Hilfeverwaltung. Mit den umfassenden Grundeinstellungen und der Feldverwaltung erhalten Sie eine solide Basislösung für die tägliche Administration ohne zusätzlichen Schnickschnack.
 
 ---
 
-**PROFESSIONAL (390€/Monat)**
+**PROFESSIONAL**
 
 Dieses Paket richtet sich an mittelständische Unternehmen, die ihre Prozesse weiter optimieren und automatisieren möchten. Neben allen Funktionen aus dem BASIS-Paket bietet das PROFESSIONAL-Paket erweiterte Module wie Wartungsmanagement, Leih- und Standortverwaltung, Support- und E-Mail-Verwaltung sowie Auftrags-, Artikel- und Preisverwaltung. Die integrierten Funktionen zur Schnellerfassung – inklusive Dokumentenleser, Quick Actions, Tableimport (mit Vorlagen) und Individual Delivery Report – ermöglichen eine zügige und effiziente Datenerfassung. 
 
 ---
 
-**EXPERT (490€/Monat)**
+**EXPERT**
 
 Für große Unternehmen, die einen maximalen Funktionsumfang sowie detaillierte Prozesssteuerung und umfassendes Datenmanagement benötigen, ist das EXPERT-Paket ideal. Es beinhaltet sämtliche Funktionen des PROFESSIONAL-Pakets und erweitert diese um hoch spezialisierte Module wie Prozedurverwaltung und Messungen. Ergänzt wird das Angebot um zusätzliche Managementfunktionen (z. B. Spezifikations- und Ressourcenmanagement, Laborspezifikationsverwaltung), erweiterte Sicherungs- und Replikationslösungen sowie den SSO Provider zur Integration externer Identity Provider. Dieses Paket unterstützt Unternehmen bei komplexen Anforderungen und einer intensiven Daten- und Prozessintegration.
 
 ---
 
-**EXPERT (OnPremise) (590€/Monat)**
+**EXPERT (OnPremise)**
 
 Diese Variante des EXPERT-Pakets bietet denselben umfangreichen Funktionsumfang wie das cloudbasierte EXPERT-Modell, wird jedoch OnPremise bereitgestellt. Sie richtet sich an Organisationen mit strengen Sicherheits- und Compliance-Anforderungen, die ihre IT-Infrastruktur selbst steuern und hosten möchten. Damit erhalten Sie alle erweiterten Funktionen und Module – inklusive Prozedurverwaltung, Messungen und SSO Provider – in einer Umgebung, die Sie vollständig kontrollieren.
 
-**Preischart Übersicht**
+**Übersicht**
 
-| **Abo-Plan** | **Enthaltene Funktionen** | **Zielgruppe** | **Kosten pro Monat** |
-| --- | --- | --- | --- |
-| **BASIS** | - Inventarverwaltung- Kalibrierverwaltung- Kundenverwaltung- Kontaktverwaltung- Typenverwaltung- Benutzerverwaltung- Datei Verwaltung- Aufgabenverwaltung- Hilfeverwaltung- Grundeinstellungen- Feldverwaltung | Kleine Unternehmen oder Start-ups, die grundlegende Verwaltungsfunktionen benötigen. | 190€ |
-| **PROFESSIONAL** | Enthält alles aus BASIS und zusätzlich:- Wartungmanagement- Leih- und Standortverwaltung- Meldungsverwaltung- Email Verwaltung- Auftragsverwaltung- Artikelverwaltung- Preisverwaltung- Erweiterte Reporting- Schnellerfassung:• Dokumentenleser• Quick Actions• Tableimport (mit Vorlagen)• Individual Delivery Report | Mittelständische Unternehmen, die erweiterte Prozessoptimierung und Automatisierung benötigen – jedoch ohne komplexe prozessuale Detailfunktionen. | 290€ |
-| **EXPERT** | Enthält alles aus PROFESSIONAL und zusätzlich:- Prozedurverwaltung- Messungen- Spezifikationenverwaltung- Ressourcen Management- Laborspezifikationsverwaltung- Erweiterte Sicherungsverwaltung- SSO Provider- Replikationsverwaltung | Große Unternehmen mit hohen Anforderungen an Integration, detaillierte Prozesssteuerung und umfassendes Datenmanagement. | 390€ |
-| **EXPERT (OnPremise)** | Identisch mit dem EXPERT-Paket, jedoch als OnPremise-Lösung – volle Kontrolle über die IT-Infrastruktur. | Unternehmen mit strengen Sicherheits- und Compliance-Anforderungen, die ihre Systeme selbst hosten möchten. | 490€ |
+| **Abo-Plan** | **Enthaltene Funktionen** | **Zielgruppe** |
+| --- | --- | --- |
+| **BASIS** | - Inventarverwaltung- Kalibrierverwaltung- Kundenverwaltung- Kontaktverwaltung- Typenverwaltung- Benutzerverwaltung- Datei Verwaltung- Aufgabenverwaltung- Hilfeverwaltung- Grundeinstellungen- Feldverwaltung | Kleine Unternehmen oder Start-ups, die grundlegende Verwaltungsfunktionen benötigen. |
+| **PROFESSIONAL** | Enthält alles aus BASIS und zusätzlich:- Wartungmanagement- Leih- und Standortverwaltung- Meldungsverwaltung- Email Verwaltung- Auftragsverwaltung- Artikelverwaltung- Preisverwaltung- Erweiterte Reporting- Schnellerfassung:• Dokumentenleser• Quick Actions• Tableimport (mit Vorlagen)• Individual Delivery Report | Mittelständische Unternehmen, die erweiterte Prozessoptimierung und Automatisierung benötigen – jedoch ohne komplexe prozessuale Detailfunktionen. |
+| **EXPERT** | Enthält alles aus PROFESSIONAL und zusätzlich:- Prozedurverwaltung- Messungen- Spezifikationenverwaltung- Ressourcen Management- Laborspezifikationsverwaltung- Erweiterte Sicherungsverwaltung- SSO Provider- Replikationsverwaltung | Große Unternehmen mit hohen Anforderungen an Integration, detaillierte Prozesssteuerung und umfassendes Datenmanagement. |
+| **EXPERT (OnPremise)** | Identisch mit dem EXPERT-Paket, jedoch als OnPremise-Lösung – volle Kontrolle über die IT-Infrastruktur. | Unternehmen mit strengen Sicherheits- und Compliance-Anforderungen, die ihre Systeme selbst hosten möchten. |
 
 Die Zeichen **✔** (enthalten) und **✖** (nicht enthalten) zeigen an, in welchem Abo ein Modul verfügbar ist.
 
@@ -74,7 +74,6 @@ Die Zeichen **✔** (enthalten) und **✖** (nicht enthalten) zeigen an, in welc
 | **Erweiterte Sicherungsverwaltung**<br>(backup_management)<br>Umfassendes Datenbank- und Dateibackup-Management, erweiterte Konfiguration von Sicherungen. | ✖ | ✖ | ✖ | ✔ |
 | **Replikationsverwaltung**<br>(symmetric_management)<br>Ermöglicht die Datenbanksynchronisation in verteilten Umgebungen, inklusive Schnittstellen für FLUKE MET/TEAM und/oder FLUKE MET/TRACK (bidirektionaler Abgleich von Kunden-, Inventar-, Kalibrierungs- und Messdaten). | ✖ | ✖ | ✖ | ✔ |
 | **SSO Provider**<br>(sso_provider)<br>*Integration externer Identity Provider (z. B. Active Directory, Entra ID, Google) zur zentralen Benutzeranmeldung, Profilsynchronisation und Verwaltung.* | ✖ | ✖ | ✖ | ✔ |
-| Kosten pro Monat | **190€** | **290€** | **390€** | **390€** |
 
 **Legende:**
 
