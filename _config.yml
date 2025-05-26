@@ -6,6 +6,10 @@ title: calServer Manual
 # Use the modern "Just the Docs" theme
 remote_theme: just-the-docs/just-the-docs
 
+# Set the base URL when hosted as a project page
+url: "https://bastelix.github.io"
+baseurl: "/calserver-docu"
+
 # Enable search (default for the theme)
 search_enabled: true
 
@@ -18,7 +22,7 @@ breadcrumbs: true
 # Auxiliary links shown in the top right corner
 aux_links:
   "GitHub": https://github.com/bastelix/calserver-docu
-  "API": /api
-  "Impressum": /impressum
-  "Kontakt": /kontakt
+  "API": /calserver-docu/api
+  "Impressum": /calserver-docu/impressum
+  "Kontakt": /calserver-docu/kontakt
 aux_links_new_tab: true
