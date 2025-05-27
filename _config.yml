@@ -31,3 +31,7 @@ aux_links_new_tab: true
 exclude:
   - README.md
   - vendor/
+# Plugins required for GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
