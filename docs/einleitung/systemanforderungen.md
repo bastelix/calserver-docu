@@ -21,7 +21,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ### Für Client-Nutzung (Browserbasiert)
 
-- **Unterstützte Browser:
+ - **Unterstützte Browser:**
     - Mozilla Firefox
     - Google Chrome
     - Microsoft Edge

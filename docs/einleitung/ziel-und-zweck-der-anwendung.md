@@ -18,7 +18,6 @@ calServer ermöglicht es, **Kalibrierprozesse zu digitalisieren, Wartungen effiz
 calServer wurde primär für **Kalibrier- und Prüflabore sowie Messmittelverwaltungen** entwickelt. Die Software ist speziell darauf ausgelegt, Kalibrierprozesse zu digitalisieren, Wartungen effizient zu planen und die Rückverfolgbarkeit von Messmitteln sicherzustellen.
 
 Darüber hinaus wird calServer in verschiedenen Branchen eingesetzt, darunter auch in der **Energieversorgung**. Die Software eignet sich zur Verwaltung von **Wartungen regenerativer Energieprojekte**, wie beispielsweise **Solaranlagen**, und wird damit auch in nachhaltigen Industrien und Versorgungsbetrieben genutzt.
-calServer wird in verschiedenen Branchen eingesetzt, darunter auch in der **Energieversorgung**. Die Software eignet sich zur Verwaltung von **Wartungen regenerativer Energieprojekte**, wie beispielsweise **Solaranlagen**, und wird damit auch in nachhaltigen Industrien und Versorgungsbetrieben genutzt.
 calServer richtet sich an:
 
 - **Kalibrier- und Prüflabore**, die ihre Prozesse digitalisieren möchten
