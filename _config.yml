@@ -32,8 +32,3 @@ exclude:
   - README.md
   - vendor/
 
-# Ensure Sass can find theme assets when installed by Bundler
-sass:
-  load_paths:
-    - _sass
-    - vendor/bundle
