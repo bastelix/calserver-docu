@@ -13,6 +13,9 @@ baseurl: "/calserver-docu"
 # Enable search (default for the theme)
 search_enabled: true
 
+# Enable in-page navigation (anchor links for headings)
+heading_anchors: true
+
 # Color scheme can be light or dark
 color_scheme: light
 
