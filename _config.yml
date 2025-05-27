@@ -22,7 +22,7 @@ breadcrumbs: true
 # Auxiliary links shown in the top right corner
 aux_links:
   "GitHub": https://github.com/bastelix/calserver-docu
-  "API": https://bastelix.github.io/calserver-docu/api/
+  "API": https://documenter.getpostman.com/view/11572884/2sA3JFCkDv
   "Impressum": https://bastelix.github.io/calserver-docu/impressum/
   "Kontakt": https://bastelix.github.io/calserver-docu/kontakt/
 aux_links_new_tab: true
