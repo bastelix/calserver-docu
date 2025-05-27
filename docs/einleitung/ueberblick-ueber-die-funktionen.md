@@ -60,25 +60,25 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 - **Kalendergestützte Reservierung** – Planung und Verwaltung von Messmitteln
 - **Drag & Drop-Reservierung** aus auswählbaren Listen
 - **Farbcodierte Übersichten** für eine intuitive Verwaltung
-- **Automatischer E-Mail-Versand mit PDF-Lieferschein
+- **Automatischer E-Mail-Versand mit PDF-Lieferschein**
 
 ---
 
 ## 7. Auftragsmanagement
 
-- **Bestellübersicht & Statusverfolgung
+- **Bestellübersicht & Statusverfolgung**
 - **Verhandlungsmanagement** – Ablaufsteuerung zur Freigabe oder Stornierung
-- **Direkte Angebotsbearbeitung mit Kostenfunktionen
-- **Lieferschein- und Rechnungsverwaltung
+- **Direkte Angebotsbearbeitung mit Kostenfunktionen**
+- **Lieferschein- und Rechnungsverwaltung**
 
 ---
 
 ## 8. Reporting & Berichte
 
 - **Individuelle Listen & Vorlagen** zur Auswertung
-- **Export in PDF, CSV, XLSX oder direkter Druck
-- **Zeitgesteuerte automatische Versendung von Berichten
-- **Eskalationsmails basierend auf kritischen Daten
+- **Export in PDF, CSV, XLSX oder direkter Druck**
+- **Zeitgesteuerte automatische Versendung von Berichten**
+- **Eskalationsmails basierend auf kritischen Daten**
 
 ---
 
@@ -92,26 +92,26 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ## 10. Benutzerverwaltung & Berechtigungssystem
 
-- **Registrierung neuer Benutzer mit AGB-Bestätigung
-- **Benutzerprofile mit individuellen Einstellungen
+- **Registrierung neuer Benutzer mit AGB-Bestätigung**
+- **Benutzerprofile mit individuellen Einstellungen**
 - **Rollen- & Gruppenverwaltung** – Zugriffskontrolle pro Modul
-- **Integrierte Kontaktverwaltung für Liefer- & Rechnungsadressen
+- **Integrierte Kontaktverwaltung für Liefer- & Rechnungsadressen**
 
 ---
 
 ## 11. Kundenverwaltung
 
-- **Verwaltung von Unternehmens- & Kundenprofilen
-- **Kundenindividuelle Inventarzuweisung & Detailinformationen
-- **Speicherung von Kundendokumenten im DMS
+- **Verwaltung von Unternehmens- & Kundenprofilen**
+- **Kundenindividuelle Inventarzuweisung & Detailinformationen**
+- **Speicherung von Kundendokumenten im DMS**
 
 ---
 
 ## 12. Angebots- & Rechnungsverwaltung
 
-- **Kostenvoranschläge & Preismanagement
-- **Statusverfolgung von Angeboten & Bestellungen
-- **Automatische Benachrichtigungen bei Statusänderungen
+- **Kostenvoranschläge & Preismanagement**
+- **Statusverfolgung von Angeboten & Bestellungen**
+- **Automatische Benachrichtigungen bei Statusänderungen**
 
 ---
 
@@ -119,15 +119,15 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 - **REST API zur Integration mit anderen Systemen** (siehe **Kapitel 8.5 REST API**)
 - **Automatisierte Datensynchronisation** mit externen Anwendungen
-- **Datenimport/-export für Inventar & Berichte
+- **Datenimport/-export für Inventar & Berichte**
 
 ---
 
 ## 14. Sicherheit & Benachrichtigungen
 
-- **Email-Benachrichtigungen bei neuen Anmeldungen & Fehlern
-- **Debugmodus zur Fehleranalyse
-- **Logging aller wichtigen Systemaktionen
+- **Email-Benachrichtigungen bei neuen Anmeldungen & Fehlern**
+- **Debugmodus zur Fehleranalyse**
+- **Logging aller wichtigen Systemaktionen**
 
 ---
 
