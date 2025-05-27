@@ -27,11 +27,17 @@ aux_links:
   "Kontakt": https://bastelix.github.io/calserver-docu/kontakt/
 aux_links_new_tab: true
 
-# Exclude repository README from the generated site
+# Exclude repository README from the generated site and ignore vendor bundle
 exclude:
   - README.md
   - vendor/
-# Plugins required for GitHub Pages
+
+# Load the remote theme plugin
 plugins:
   - jekyll-remote-theme
 
+# Ensure Sass can find theme assets when installed by Bundler
+sass:
+  load_paths:
+    - _sass
+    - vendor/bundle
