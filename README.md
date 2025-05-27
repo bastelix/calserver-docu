@@ -39,6 +39,13 @@ calServer erfüllt sämtliche Vorgaben der Datenschutz-Grundverordnung (DSGVO). 
 
 Bei Fragen, Anregungen oder Unterstützungsbedarf steht Ihnen unser Support-Team gerne zur Verfügung. Weitere Informationen und Kontaktmöglichkeiten finden Sie unter: [calserver.com/support](https://calserver.com/support)
 
+## Automatischer Build
+
+Die Dokumentation wird bei jedem Push in das `main`-Repository automatisch mit
+GitHub Actions gebaut. Die dazugehörige Workflow-Datei befindet sich unter
+`.github/workflows/jekyll.yml` und führt `bundle exec jekyll build` aus, um sicherzustellen,
+dass alle Abhängigkeiten korrekt installiert sind.
+
 ## Lokale Vorschau
 
 Die Dokumentation nutzt das **Just the Docs** Theme. Um die Seite lokal zu testen, benötigen Sie Ruby mit Bundler. Installieren Sie die Abhängigkeiten und starten Sie den Server mit:
