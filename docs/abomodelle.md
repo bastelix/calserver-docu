@@ -91,4 +91,3 @@ Die nachfolgende Tabelle listet alle Module und zeigt, in welchen Abos sie entha
 - **✔** = Enthalten
 - **✖** = Nicht enthalten
 
-Damit verfügen Sie über eine **klar strukturierte Übersicht** in der vom Kunden gewünschten Reihenfolge, mit deutlich gekennzeichneten **Basis-, Professional-** und **Expert( OnPremise )**-Modulen.
