@@ -55,7 +55,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 6. Leihmessmittel-Verwaltung
+## 6. Standorte
 
 - **Kalendergestützte Reservierung** – Planung und Verwaltung von Messmitteln
 - **Drag & Drop-Reservierung** aus auswählbaren Listen

@@ -1,10 +1,10 @@
 ---
-title: Leihmessmittel
+title: Standorte
 nav_order: 5
 parent: Anwendungsfunktionen
 layout: page
 ---
 
-# Leihmessmittel
+# Standorte
 
 Noch in Bearbeitung.
