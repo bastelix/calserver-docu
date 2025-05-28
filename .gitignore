@@ -1,0 +1,11 @@
+# Ignore bundler vendor directory
+vendor/
+
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Other temporary files
+.DS_Store
