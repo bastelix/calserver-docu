@@ -13,6 +13,8 @@ permissions:
 
 jobs:
   github-pages:
+    environment:
+      name: github-pages
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
