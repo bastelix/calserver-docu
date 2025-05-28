@@ -33,3 +33,4 @@ aux_links_new_tab: true
 # Exclude repository README from the generated site
 exclude:
   - README.md
+  - vendor/

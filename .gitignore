@@ -1,4 +1,5 @@
-# Ignore bundler vendor directory
+# Ignore Bundler directories
+.bundle/
 vendor/
 
 # Jekyll build artifacts
