@@ -4,7 +4,9 @@
 title: calServer Manual
 
 # Use the modern "Just the Docs" theme
-remote_theme: just-the-docs/just-the-docs
+# Use the local version of the "Just the Docs" theme so that the site can be
+# built without downloading the theme from GitHub.
+theme: just-the-docs
 
 # Set the base URL when hosted as a project page
 url: "https://bastelix.github.io"
@@ -31,7 +33,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Exclude repository README from the generated site
-  exclude:
-    - README.md
-    - vendor/
-    - docs/assets/img/**/README.md
+exclude:
+  - README.md
+  - vendor/
+  - docs/assets/img/**/README.md
