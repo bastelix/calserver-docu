@@ -33,3 +33,5 @@ aux_links_new_tab: true
 # Exclude repository README from the generated site
 exclude:
   - README.md
+  # Hide placeholder READMEs within image directories
+  - docs/assets/img/**/README.md
