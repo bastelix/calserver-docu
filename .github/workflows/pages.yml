@@ -14,9 +14,6 @@ permissions:
 jobs:
   github-pages:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
@@ -28,5 +25,4 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v4
