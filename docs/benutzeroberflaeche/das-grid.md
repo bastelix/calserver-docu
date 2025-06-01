@@ -134,7 +134,82 @@ Jede Zeile im Grid stellt einen vollständigen Datensatz dar. Zahlreiche Felder 
 
 ---
 
-## 4. Zusammenfassung
+### 3.2 Suchfunktion in Tabellenfeldern
+
+In allen Tabellenfeldern steht Ihnen eine komfortable Suchfunktion zur Verfügung.
+Sie können Begriffe eingeben und die Suche mit Platzhaltern flexibel gestalten.
+
+#### Eingabemöglichkeiten
+
+- **Normale Suche**  
+  Geben Sie einfach den gesuchten Begriff ein.  
+  Beispiel: `Fluke` findet alle Einträge mit diesem Text – Groß- und Kleinschreibung werden ignoriert.
+
+- **Platzhalter verwenden**  
+  `*` steht für **beliebig viele Zeichen**.  
+  Beispiel: `Fluke*` findet Einträge, die mit „Fluke“ beginnen; `*179` findet Einträge, die auf „179“ enden.  
+  `?` steht für **genau ein Zeichen**.  
+  Beispiel: `Flu?e` liefert „Fluke", „Flute" oder „Flure".
+
+- **Groß-/Kleinschreibung beachten**  
+  Aktivieren Sie das `=`-Symbol im Suchfeld, um exakt nach Groß- und Kleinschreibung zu suchen.
+
+#### Zusammenfassung der Suchoptionen
+
+| Eingabe | Bedeutung |
+| --- | --- |
+| `Fluke` | Findet alle Einträge, die „Fluke“ enthalten |
+| `Fluke*` | Findet alle Einträge, die mit „Fluke“ beginnen |
+| `*179` | Findet alle Einträge, die auf „179“ enden |
+| `Flu?e` | Findet Einträge mit genau einem Zeichen zwischen `Flu` und `e` |
+| Aktiviertes `=` | Sucht unter Berücksichtigung der Groß- und Kleinschreibung |
+
+> **Tipp:** Nutzen Sie die Platzhalter `*` und `?`, um die Suche präziser zu gestalten. Aktivieren Sie das `=`-Symbol, wenn Sie die Groß- und Kleinschreibung berücksichtigen möchten.
+
+---
+
+### 3.3 Zeilenfunktionen
+
+- **Direkte Bearbeitung (rollenabhängig)**  
+  Bei ausreichenden Rechten kann ein Spaltenwert direkt im Grid angeklickt werden. Ein kleines Popup erlaubt die Änderung.
+
+- **Verknüpfte Daten**  
+  Ein Klick auf verlinkte Felder wie „Kundenzuweisung“ öffnet einen Detailbereich oder springt zu einem anderen Modul.
+
+- **Status-/Ablaufhinweise**  
+  Datumsfelder wie „Ablaufdatum“ können farblich hinterlegt sein, wenn die Frist bald überschritten wird.
+
+- **Zeilenmarker**  
+  Am Zeilenanfang befindet sich meist eine Checkbox, um mehrere Datensätze zu markieren und anschließend gemeinsam zu bearbeiten, zu löschen oder zu exportieren.
+
+### 3.4 Gridbezogene Schaltflächen (unterer Detailbereich)
+
+Unmittelbar **oberhalb** der Paginierung können je nach Modul weitere Schaltflächen angezeigt werden, mit denen Sie *markierte* Datensätze gemeinsam bearbeiten:
+
+- **Nutzer ändern**: Weist die ausgewählten Datensätze einem anderen Nutzenden zu.
+- **Aufgabe erstellen**: Erstellt für alle markierten Einträge neue Aufgaben (z. B. für Wartungen).
+- **Dokumente downloaden**: Lädt für alle markierten Einträge die zugehörigen Dokumente auf einmal herunter.
+- **Löschen**: Entfernt die markierten Einträge (abhängig von Berechtigungen).
+- **Weitere Modulaktionen**: Z. B. Statuswechsel, Etikettendruck, Kalibrierung anstoßen etc.
+
+**Wichtig**: Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
+
+---
+
+### 4. Fußbereich
+
+Im **Fußbereich** des Grids werden vor allem **Navigations- und Anzeigeoptionen** bereitgestellt:
+
+1. **Ergebnis-Info**  
+   Zeigt an, wie viele Datensätze aktuell dargestellt werden, etwa „Zeige 1–10 von 39“.
+2. **Zeilen pro Seite**  
+   Eine Drop-down-Auswahl (10, 25, 50, 100) legt fest, wie viele Datensätze pro Seite angezeigt werden.
+3. **Paginierung**  
+   Schaltflächen (z. B. **1**, **2**, **3**, **›**, **»**) zum Wechseln auf die nächste oder letzte Seite.
+
+---
+
+## 5. Zusammenfassung
 
 Die modulare Grid-Struktur von **calServer** bietet:
 
