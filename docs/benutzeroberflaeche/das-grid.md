@@ -48,10 +48,10 @@ Die Spaltensichtauswahl ermöglicht das Speichern und Umschalten zwischen versch
 
 | Nr. | Element                     | Beschreibung                                                            |
 | --- | --------------------------- | ----------------------------------------------------------------------- |
-| ①   | Aktive Ansicht („Standard") | Aktuell ausgewählte Spaltenansicht, `*` zeigt ungespeicherte Änderungen |
-| ②   | Ansichtsauswahl             | Dropdown-Liste gespeicherter benutzerdefinierter Ansichten              |
-| ③   | Bearbeitungsfunktionen      | Icons für Umbenennen, Löschen und Speichern                             |
-| ④   | Speichern als               | Speichert aktuelle Konfiguration als neue Ansicht                       |
+| <span class="marker">①</span>   | Aktive Ansicht („Standard") | Aktuell ausgewählte Spaltenansicht, `*` zeigt ungespeicherte Änderungen |
+| <span class="marker">②</span>   | Ansichtsauswahl             | Dropdown-Liste gespeicherter benutzerdefinierter Ansichten              |
+| <span class="marker">③</span>   | Bearbeitungsfunktionen      | Icons für Umbenennen, Löschen und Speichern                             |
+| <span class="marker">④</span>   | Speichern als               | Speichert aktuelle Konfiguration als neue Ansicht                       |
 
 ---
 
@@ -84,12 +84,12 @@ Mit dem Spaltenmenü steuern Nutzer\:innen, welche Spalten im Grid angezeigt und
 
 | Nr. | Element             | Beschreibung                                   |
 | --- | ------------------- | ---------------------------------------------- |
-| ①   | Spaltenmenü öffnen  | Aufruf der Konfiguration sichtbarer Spalten    |
-| ②   | Spaltencheckboxen   | Schalten Sichtbarkeit einzelner Spalten an/aus |
-| ③   | Drag & Drop-Bereich | Neuanordnung der Spalten durch Ziehen          |
-| ④   | Suchfeld            | Schnelle Filterung nach Spaltennamen           |
-| ⑤   | OK-Schaltfläche     | Bestätigt Änderungen                           |
-| ⑥   | Rücksetzen          | Lädt systemseitige oder gespeicherte Vorlage   |
+| <span class="marker">①</span>   | Spaltenmenü öffnen  | Aufruf der Konfiguration sichtbarer Spalten    |
+| <span class="marker">②</span>   | Spaltencheckboxen   | Schalten Sichtbarkeit einzelner Spalten an/aus |
+| <span class="marker">③</span>   | Drag & Drop-Bereich | Neuanordnung der Spalten durch Ziehen          |
+| <span class="marker">④</span>   | Suchfeld            | Schnelle Filterung nach Spaltennamen           |
+| <span class="marker">⑤</span>   | OK-Schaltfläche     | Bestätigt Änderungen                           |
+| <span class="marker">⑥</span>   | Rücksetzen          | Lädt systemseitige oder gespeicherte Vorlage   |
 
 ---
 
@@ -124,13 +124,13 @@ Jede Zeile im Grid stellt einen vollständigen Datensatz dar. Zahlreiche Felder 
 
 | Nr. | Element                    | Beschreibung                                                  |
 | --- | -------------------------- | ------------------------------------------------------------- |
-| ①   | Spaltenfilter              | Zeilen unter den Spaltenköpfen zur Eingrenzung der Datensätze |
-| ②   | Spaltensichtauswahl        | Dropdown zum Wechsel zwischen gespeicherten Konfigurationen   |
-| ③   | Kopfbereichsmenü           | Filteroptionen, Spaltensteuerung und Aktionen                 |
-| ④   | Verlinkte Datenzellen      | Klickbare Felder zur Navigation in Detailansichten            |
-| ⑤   | Zeilenaktionsmenü          | Kontextmenü mit spezifischen Bearbeitungsoptionen             |
-| ⑥   | Sammelaktionsleiste        | Aktionen für ausgewählte Datensätze (Mehrfachselektion)       |
-| ⑦   | Fußbereich mit Paginierung | Navigation zwischen Seiten, Auswahl Zeilen pro Seite          |
+| <span class="marker">①</span>   | Spaltenfilter              | Zeilen unter den Spaltenköpfen zur Eingrenzung der Datensätze |
+| <span class="marker">②</span>   | Spaltensichtauswahl        | Dropdown zum Wechsel zwischen gespeicherten Konfigurationen   |
+| <span class="marker">③</span>   | Kopfbereichsmenü           | Filteroptionen, Spaltensteuerung und Aktionen                 |
+| <span class="marker">④</span>   | Verlinkte Datenzellen      | Klickbare Felder zur Navigation in Detailansichten            |
+| <span class="marker">⑤</span>   | Zeilenaktionsmenü          | Kontextmenü mit spezifischen Bearbeitungsoptionen             |
+| <span class="marker">⑥</span>   | Sammelaktionsleiste        | Aktionen für ausgewählte Datensätze (Mehrfachselektion)       |
+| <span class="marker">⑦</span>   | Fußbereich mit Paginierung | Navigation zwischen Seiten, Auswahl Zeilen pro Seite          |
 
 ---
 
@@ -201,18 +201,18 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 ![Grid Übersicht]({{ '/assets/img/benutzeroberflaeche/grid-uebersicht.png' | relative_url }})
 {: .mb-4 }
 
-*Screenshot mit den markierten Elementen ①–⑥*
+*Screenshot mit den markierten Elementen <span class="marker">①</span>–<span class="marker">⑥</span>*
 
 ## Erklärung der markierten Elemente im Screenshot
 
 | Nr. | Bezeichnung | Funktionale Erklärung |
 | --- | ----------- | -------------------- |
-| ① | **Spaltensichtauswahl** | Wechsel zwischen gespeicherten Spaltenansichten. |
-| ② | **Spaltenmenü** | Steuerung der sichtbaren Spalten und deren Reihenfolge. |
-| ③ | **Filterzeilen** | Eingrenzung der Datensätze direkt im Grid. |
-| ④ | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
-| ⑤ | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
-| ⑥ | **Paginierung** | Navigation zwischen den Seiten des Grids. |
+| <span class="marker">①</span> | **Spaltensichtauswahl** | Wechsel zwischen gespeicherten Spaltenansichten. |
+| <span class="marker">②</span> | **Spaltenmenü** | Steuerung der sichtbaren Spalten und deren Reihenfolge. |
+| <span class="marker">③</span> | **Filterzeilen** | Eingrenzung der Datensätze direkt im Grid. |
+| <span class="marker">④</span> | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
+| <span class="marker">⑤</span> | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
+| <span class="marker">⑥</span> | **Paginierung** | Navigation zwischen den Seiten des Grids. |
 
 ---
 
