@@ -25,7 +25,7 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 
 *Screenshot mit den markierten Elementen <span class="marker">①</span>–<span class="marker">⑥</span>*
 
-#### Erklärung der markierten Elemente
+#### 📊 Tabellarische Beschreibung (Referenzdarstellung)
 
 | Nr. | Bezeichnung | Funktionale Erklärung |
 | --- | ----------- | -------------------- |
@@ -35,6 +35,7 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 | <span class="marker">④</span> | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
 | <span class="marker">⑤</span> | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
 | <span class="marker">⑥</span> | **Paginierung** | Navigation zwischen den Seiten des Grids. |
+
 ---
 
 ## 2. Kopfbereich im Detail
