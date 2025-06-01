@@ -194,6 +194,26 @@ Unmittelbar **oberhalb** der Paginierung können je nach Modul weitere Schaltfl�
 
 **Wichtig**: Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
 
+## Referenzdarstellung
+
+Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
+
+![Grid Übersicht]({{ '/assets/img/benutzeroberflaeche/grid-uebersicht.png' | relative_url }})
+{: .mb-4 }
+
+*Screenshot mit den markierten Elementen ①–⑥*
+
+## Erklärung der markierten Elemente im Screenshot
+
+| Nr. | Bezeichnung | Funktionale Erklärung |
+| --- | ----------- | -------------------- |
+| ① | **Spaltensichtauswahl** | Wechsel zwischen gespeicherten Spaltenansichten. |
+| ② | **Spaltenmenü** | Steuerung der sichtbaren Spalten und deren Reihenfolge. |
+| ③ | **Filterzeilen** | Eingrenzung der Datensätze direkt im Grid. |
+| ④ | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
+| ⑤ | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
+| ⑥ | **Paginierung** | Navigation zwischen den Seiten des Grids. |
+
 ---
 
 ### 4. Fußbereich
