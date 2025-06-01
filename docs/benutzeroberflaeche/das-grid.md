@@ -40,7 +40,7 @@ Die Spaltensichtauswahl ermöglicht das Speichern und Umschalten zwischen versch
 
 #### 📸 Screenshot: Spaltensichtauswahl
 
-![Spaltensichtauswahl]({{ '/assets/img/benutzeroberflaeche/spaltensichtauswahl.png' | relative_url }})
+![Spaltensichtauswahl]({{ '/docs/assets/img/benutzeroberflaeche/spaltensichtauswahl.png' | relative_url }})
 
 ---
 
@@ -76,7 +76,7 @@ Mit dem Spaltenmenü steuern Nutzer\:innen, welche Spalten im Grid angezeigt und
 
 #### 📸 Screenshot: Spaltenmenü
 
-![Spaltenmenü]({{ '/assets/img/benutzeroberflaeche/spaltenmenue.png' | relative_url }})
+![Spaltenmenü]({{ '/docs/assets/img/benutzeroberflaeche/spaltenmenue.png' | relative_url }})
 
 ---
 
@@ -116,7 +116,7 @@ Jede Zeile im Grid stellt einen vollständigen Datensatz dar. Zahlreiche Felder 
 
 #### 📸 Screenshot: Übersichtliches Grid mit Zeilenfunktionen
 
-![Übersichtliches Grid mit Zeilenfunktionen]({{ '/assets/img/benutzeroberflaeche/grid-zeilenfunktionen.png' | relative_url }})
+![Übersichtliches Grid mit Zeilenfunktionen]({{ '/docs/assets/img/benutzeroberflaeche/grid-zeilenfunktionen.png' | relative_url }})
 
 ---
 

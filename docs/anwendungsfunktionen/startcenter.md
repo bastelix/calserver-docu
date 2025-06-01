@@ -60,7 +60,7 @@ Jedes Infoelement kann über ein Kontextmenü angepasst werden:
 
 Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 
-![Startcenter Übersicht]({{ '/assets/img/anwendungsfunktionen/startcenter-uebersicht.png' | relative_url }})
+![Startcenter Übersicht]({{ '/docs/assets/img/anwendungsfunktionen/startcenter-uebersicht.png' | relative_url }})
 {: .mb-4 }
 
 *Screenshot mit den markierten Elementen ①–⑧*
