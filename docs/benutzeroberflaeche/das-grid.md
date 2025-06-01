@@ -5,7 +5,7 @@ parent: Benutzeroberfläche
 layout: page
 ---
 
-# 📘 Dokumentation: Grid-Funktionen in calServer
+# Grid-Funktionen in calServer
 
 ## 1. Grundlegender Aufbau des Grids
 
