@@ -184,6 +184,7 @@ Sie können Begriffe eingeben und die Suche mit Platzhaltern flexibel gestalten.
 | Aktiviertes `=` | Sucht unter Berücksichtigung der Groß- und Kleinschreibung |
 
 > **Tipp:** Nutzen Sie die Platzhalter `*` und `?`, um die Suche präziser zu gestalten. Aktivieren Sie das `=`-Symbol, wenn Sie die Groß- und Kleinschreibung berücksichtigen möchten.
+{: .tip }
 
 ---
 
@@ -211,7 +212,8 @@ Unmittelbar **oberhalb** der Paginierung können je nach Modul weitere Schaltfl�
 - **Löschen**: Entfernt die markierten Einträge (abhängig von Berechtigungen).
 - **Weitere Modulaktionen**: Z. B. Statuswechsel, Etikettendruck, Kalibrierung anstoßen etc.
 
-**Wichtig**: Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
+> **Wichtig:** Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
+{: .important }
 
 ---
 
