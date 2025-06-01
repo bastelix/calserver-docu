@@ -25,7 +25,7 @@ Die Navigation erfolgt über die linke Seitenleiste, die alle Hauptmodule enthä
 Über die Schnellsuche lassen sich gezielt Einträge finden, während die Infoleiste oben im System Benachrichtigungen und Systemmeldungen anzeigt.
 
 
-![Übersicht der Menüelemente]({{ '/assets/img/hauptmenue-navigation.png' | relative_url }})
+![Übersicht der Menüelemente]({{ '/docs/assets/img/hauptmenue-navigation.png' | relative_url }})
 {: .mb-4 }
 
 *Übersicht der Menüelemente*
