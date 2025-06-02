@@ -6,7 +6,6 @@ layout: page
 
 
 # Abomodelle
-{% include toc.html %}
 
 ## Kurzerklärung
 

@@ -6,7 +6,6 @@ permalink: /impressum/
 ---
 
 # Impressum
-{% include toc.html %}
 
 Stand 29.04.2020
 

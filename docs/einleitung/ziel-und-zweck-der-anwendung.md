@@ -6,7 +6,6 @@ layout: page
 ---
 
 # Ziel und Zweck der Anwendung
-{% include toc.html %}
 {% include reading_time.html %}
 
 ## Einführung
