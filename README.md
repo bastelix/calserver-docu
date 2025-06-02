@@ -48,4 +48,6 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Der Server läuft anschließend unter <http://localhost:4000>.
+Mit dem in `_config.yml` gesetzten `baseurl: /calserver-docu` erscheint die Seite anschließend unter <http://localhost:4000/calserver-docu>. Für eine Vorschau direkt unter <http://localhost:4000> können Sie den Server auch mit `bundle exec jekyll serve --baseurl ''` starten.
+
+Praktische Beispiele für GitHub Pages Workflows finden Sie im [Starter‑Repository](https://github.com/actions/starter-workflows/tree/main/pages).
