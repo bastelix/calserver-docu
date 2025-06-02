@@ -8,4 +8,5 @@ layout: page
 # Dokumentationssystem
 {% include toc.html %}
 
-Noch in Bearbeitung.
+> **Hinweis:** Diese Seite befindet sich noch in Bearbeitung.
+{: .note }

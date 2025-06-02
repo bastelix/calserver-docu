@@ -28,9 +28,8 @@ Die Dokumentation wird fortlaufend erweitert und aktualisiert. Schauen Sie regel
 
 ## Lizenzbedingungen
 
-calServer und die zugehörige Dokumentation unterliegen urheberrechtlichem Schutz. Sofern nicht ausdrücklich anders gekennzeichnet, dürfen Inhalte dieses Manuals ausschließlich im Rahmen einer gültigen calServer-Lizenz genutzt werden. Die Weitergabe, Vervielfältigung oder Veröffentlichung – auch auszugsweise – bedarf der vorherigen schriftlichen Zustimmung des Rechteinhabers.
-
-Bitte beachten Sie zusätzlich die jeweils gültigen Endnutzer-Lizenzbedingungen (EULA), die Sie bei Erwerb oder Aktivierung von calServer erhalten. Support, Updates und Zugang zu erweiterten Inhalten sind Bestandteil eines gültigen Lizenzvertrags.
+> **Wichtig:** calServer und die zugehörige Dokumentation unterliegen urheberrechtlichem Schutz. Sofern nicht ausdrücklich anders gekennzeichnet, dürfen Inhalte dieses Manuals ausschließlich im Rahmen einer gültigen calServer-Lizenz genutzt werden. Die Weitergabe, Vervielfältigung oder Veröffentlichung – auch auszugsweise – bedarf der vorherigen schriftlichen Zustimmung des Rechteinhabers. Bitte beachten Sie zusätzlich die jeweils gültigen Endnutzer-Lizenzbedingungen (EULA), die Sie bei Erwerb oder Aktivierung von calServer erhalten. Support, Updates und Zugang zu erweiterten Inhalten sind Bestandteil eines gültigen Lizenzvertrags.
+{: .important }
 
 ## Datenschutz und Hosting
 
@@ -42,13 +41,14 @@ Bei Fragen, Anregungen oder Unterstützungsbedarf steht Ihnen unser Support-Team
 
 ## Lokale Vorschau
 
-Die Dokumentation nutzt das **Just the Docs** Theme. Um die Seite lokal zu testen, benötigen Sie Ruby mit Bundler. Installieren Sie die Abhängigkeiten und starten Sie den Server mit:
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Mit dem in `_config.yml` gesetzten `baseurl: /calserver-docu` erscheint die Seite anschließend unter <http://localhost:4000/calserver-docu>. Für eine Vorschau direkt unter <http://localhost:4000> können Sie den Server auch mit `bundle exec jekyll serve --baseurl ''` starten.
+> **Hinweis:** Die Dokumentation nutzt das **Just the Docs** Theme. Um die Seite lokal zu testen, benötigen Sie Ruby mit Bundler. Installieren Sie die Abhängigkeiten und starten Sie den Server mit:
+> 
+> ```bash
+> bundle install
+> bundle exec jekyll serve
+> ```
+> 
+> Mit dem in `_config.yml` gesetzten `baseurl: /calserver-docu` erscheint die Seite anschließend unter <http://localhost:4000/calserver-docu>. Für eine Vorschau direkt unter <http://localhost:4000> können Sie den Server auch mit `bundle exec jekyll serve --baseurl ''` starten.
+{: .note }
 
 Praktische Beispiele für GitHub Pages Workflows finden Sie im [Starter‑Repository](https://github.com/actions/starter-workflows/tree/main/pages).

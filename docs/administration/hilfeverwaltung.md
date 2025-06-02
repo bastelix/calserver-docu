@@ -8,4 +8,5 @@ layout: page
 # Hilfeverwaltung
 {% include toc.html %}
 
-Noch in Bearbeitung.
+> **Hinweis:** Diese Seite befindet sich noch in Bearbeitung.
+{: .note }
