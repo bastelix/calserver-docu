@@ -1,3 +1,7 @@
-{% assign words = page.content | number_of_words %}
-{% assign minutes = words | plus: 199 | divided_by: 200 %}
-<p class="reading-time">⏰ Geschätzte Lesezeit: {{ minutes }} Minuten</p>
+{% if page.reading_minutes %}
+  <p class="reading-time">⏰ Geschätzte Lesezeit: {{ page.reading_minutes }} Minuten</p>
+{% else %}
+  {% assign words = page.content | split: ' ' | size %}
+  {% assign minutes = words | plus: 199 | divided_by: 200 %}
+  <p class="reading-time">⏰ Geschätzte Lesezeit: {{ minutes }} Minuten</p>
+{% endif %}
