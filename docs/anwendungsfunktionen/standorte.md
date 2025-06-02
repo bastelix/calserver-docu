@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Standorte
+{% include toc.html %}
 
 Noch in Bearbeitung.

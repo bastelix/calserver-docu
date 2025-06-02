@@ -6,5 +6,6 @@ layout: page
 ---
 
 # REST API – Schnittstellen & Integration
+{% include toc.html %}
 
 Noch in Bearbeitung.

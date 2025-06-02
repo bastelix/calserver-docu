@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Synchronisation
+{% include toc.html %}
 
 Noch in Bearbeitung.

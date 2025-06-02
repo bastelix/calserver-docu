@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Support-Verwaltung
+{% include toc.html %}
 
 Noch in Bearbeitung.

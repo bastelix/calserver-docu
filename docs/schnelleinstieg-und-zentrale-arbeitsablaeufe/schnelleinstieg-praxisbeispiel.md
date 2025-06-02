@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Schnelleinstieg Praxisbeispiel
+{% include toc.html %}
 
 Noch in Bearbeitung.

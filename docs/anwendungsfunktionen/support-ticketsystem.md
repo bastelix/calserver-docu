@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Support-Ticketsystem
+{% include toc.html %}
 
 Noch in Bearbeitung.

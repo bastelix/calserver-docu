@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Benutzerprofil – Einstellungen und Verwaltung
+{% include toc.html %}
 
 Noch in Bearbeitung.

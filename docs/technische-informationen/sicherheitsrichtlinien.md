@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Sicherheitsrichtlinien
+{% include toc.html %}
 
 Noch in Bearbeitung.

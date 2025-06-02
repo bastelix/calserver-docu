@@ -5,7 +5,8 @@ parent: Benutzeroberfläche
 layout: page
 ---
 
-# 📘 Dokumentation: Grid-Funktionen in calServer
+# Grid-Funktionen in calServer
+{% include toc.html %}
 
 ## 1. Grundlegender Aufbau des Grids
 
@@ -15,6 +16,26 @@ Ein Grid in calServer stellt Datensätze tabellarisch dar – etwa Inventare, Au
 * **Hauptteil**: Datenzeilen mit Filterzeilen und interaktiven Spalten
 * **Unterer Detailbereich**: Schaltflächen für Massenaktionen
 * **Fußbereich**: Paginierung, Anzeigeoptionen
+
+### Referenzdarstellung
+
+Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
+
+![Grid Übersicht]({{ '/docs/assets/img/benutzeroberflaeche/das-grid.png' | relative_url }})
+{: .mb-4 }
+
+*Screenshot mit den markierten Elementen <span class="marker">①</span>–<span class="marker">⑥</span>*
+
+#### 📊 Tabellarische Beschreibung (Referenzdarstellung)
+
+| Nr. | Bezeichnung | Funktionale Erklärung |
+| --- | ----------- | -------------------- |
+| <span class="marker">①</span> | **Spaltensichtauswahl** | Wechsel zwischen gespeicherten Spaltenansichten. |
+| <span class="marker">②</span> | **Spaltenmenü** | Steuerung der sichtbaren Spalten und deren Reihenfolge. |
+| <span class="marker">③</span> | **Filterzeilen** | Eingrenzung der Datensätze direkt im Grid. |
+| <span class="marker">④</span> | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
+| <span class="marker">⑤</span> | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
+| <span class="marker">⑥</span> | **Paginierung** | Navigation zwischen den Seiten des Grids. |
 
 ---
 
@@ -116,7 +137,7 @@ Jede Zeile im Grid stellt einen vollständigen Datensatz dar. Zahlreiche Felder 
 
 #### 📸 Screenshot: Übersichtliches Grid mit Zeilenfunktionen
 
-![Übersichtliches Grid mit Zeilenfunktionen]({{ '/docs/assets/img/benutzeroberflaeche/grid-zeilenfunktionen.png' | relative_url }})
+![Übersichtliches Grid mit Zeilenfunktionen]({{ '/docs/assets/img/benutzeroberflaeche/das-grid.png' | relative_url }})
 
 ---
 
@@ -165,6 +186,7 @@ Sie können Begriffe eingeben und die Suche mit Platzhaltern flexibel gestalten.
 | Aktiviertes `=` | Sucht unter Berücksichtigung der Groß- und Kleinschreibung |
 
 > **Tipp:** Nutzen Sie die Platzhalter `*` und `?`, um die Suche präziser zu gestalten. Aktivieren Sie das `=`-Symbol, wenn Sie die Groß- und Kleinschreibung berücksichtigen möchten.
+{: .tip }
 
 ---
 
@@ -213,6 +235,9 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 | <span class="marker">④</span> | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
 | <span class="marker">⑤</span> | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
 | <span class="marker">⑥</span> | **Paginierung** | Navigation zwischen den Seiten des Grids. |
+=======
+> **Wichtig:** Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
+{: .important }
 
 ---
 

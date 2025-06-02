@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Dokumentationssystem
+{% include toc.html %}
 
 Noch in Bearbeitung.

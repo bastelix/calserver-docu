@@ -6,6 +6,7 @@ layout: page
 ---
 
 # Hauptmenü und Navigation
+{% include toc.html %}
 
 ## 1.1 Einführung
 
@@ -47,7 +48,9 @@ Das Hauptmenü von calServer ist die zentrale Navigationsstruktur und ermöglich
     - **Neue Seite** – Erstellung neuer Dokumentationsinhalte.
     - **Dokumentenliste** – Übersicht über alle hochgeladenen Dokumente.
     - **Sprachenliste** – Verwaltung der Sprachversionen von Dokumentationen.
-- **Schaukasten** – Nur Intern! Darstellung von wichtigen Informationen.
+- **Schaukasten** – Darstellung von wichtigen Informationen.
+
+> **Warnung:** Dieses Modul ist nur für den internen Gebrauch bestimmt.
 {: .warning }
 - **Schnellerfassung** – Direkte Eingabe neuer Daten ohne Umwege.
     - **Status erfassen** – Änderung des Status von Einträgen.
