@@ -12,7 +12,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## 1. Softwareanforderungen
+## Softwareanforderungen
 
 ### Für Server-Hosting (On-Premise Installation)
 
@@ -35,7 +35,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## 2. Hardwareanforderungen
+## Hardwareanforderungen
 
 ### Für Server (On-Premise Hosting)
 
@@ -61,7 +61,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## 3. Netzwerk- & Sicherheitsanforderungen
+## Netzwerk- & Sicherheitsanforderungen
 
 - **SSL-Verschlüsselung (HTTPS)** ist zwingend erforderlich für den sicheren Datentransfer.
 - **Firewall-Regeln:** Portfreigabe für Webserver (Standard: 443 HTTPS, 80 HTTP nur für Weiterleitungen).
@@ -71,7 +71,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## 4. Passwort-Richtlinie
+## Passwort-Richtlinie
 
 - Passwörter müssen den **üblichen Sicherheitskriterien** entsprechen
 - Kunden können eigene Regeln konfigurieren (Mindestlänge, Sonderzeichen, Ablaufdatum etc.)
@@ -80,7 +80,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## 5. Spam- & Cookie-Richtlinien
+## Spam- & Cookie-Richtlinien
 
 - calServer bietet **Sicherheitsmechanismen** wie Captcha-Formularschutz
 - Diese können vom Kunden konfiguriert werden
@@ -88,7 +88,7 @@ calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgeb
 
 ---
 
-## 6. Skalierbarkeit & Performance
+## Skalierbarkeit & Performance
 
 - **Dynamische Skalierung möglich** bei Cloud-Hosting (Lastverteilung über mehrere Instanzen)
 - **Cache-Unterstützung:** Redis oder Memcached für optimierte Performance
