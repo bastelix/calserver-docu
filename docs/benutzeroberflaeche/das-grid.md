@@ -214,8 +214,6 @@ Unmittelbar **oberhalb** der Paginierung können je nach Modul weitere Schaltfl�
 - **Löschen**: Entfernt die markierten Einträge (abhängig von Berechtigungen).
 - **Weitere Modulaktionen**: Z. B. Statuswechsel, Etikettendruck, Kalibrierung anstoßen etc.
 
-**Wichtig**: Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
-
 ## Referenzdarstellung
 
 Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
@@ -235,7 +233,6 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 | <span class="marker">④</span> | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
 | <span class="marker">⑤</span> | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
 | <span class="marker">⑥</span> | **Paginierung** | Navigation zwischen den Seiten des Grids. |
-=======
 > **Wichtig:** Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
 {: .important }
 

@@ -50,3 +50,34 @@ nav.toc ul {
     margin-right: 20rem;
   }
 }
+
+/* Callout styles */
+.note,
+.tip,
+.important,
+.warning {
+  padding: 1rem;
+  margin: 1rem 0;
+  border-left: 0.25rem solid;
+  border-radius: 0.25rem;
+}
+
+.note {
+  background-color: #f5faff;
+  border-color: #007acc;
+}
+
+.tip {
+  background-color: #f5fff5;
+  border-color: #28a745;
+}
+
+.important {
+  background-color: #fff5f5;
+  border-color: #d9534f;
+}
+
+.warning {
+  background-color: #fff8e5;
+  border-color: #f0ad4e;
+}
