@@ -3,8 +3,8 @@
 # Set the site title
 title: calServer Manual
 
-# Use the modern "Just the Docs" theme
-theme: just-the-docs
+# Use the modern "Just the Docs" theme via remote theme
+remote_theme: just-the-docs/just-the-docs
 
 # Set the base URL when hosted as a project page
 url: "https://bastelix.github.io"
