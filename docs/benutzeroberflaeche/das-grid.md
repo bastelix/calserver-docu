@@ -8,7 +8,7 @@ layout: page
 # Grid-Funktionen in calServer
 {% include toc.html %}
 
-## 1. Grundlegender Aufbau des Grids
+## Grundlegender Aufbau des Grids
 
 Ein Grid in calServer stellt Datensätze tabellarisch dar – etwa Inventare, Aufträge oder Prüfmittel. Es gliedert sich in:
 
@@ -39,9 +39,9 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 
 ---
 
-## 2. Kopfbereich im Detail
+## Kopfbereich im Detail
 
-### 2.1 Spaltensichtauswahl
+### Spaltensichtauswahl
 
 Die Spaltensichtauswahl ermöglicht das Speichern und Umschalten zwischen verschiedenen Spaltenkonfigurationen im Grid. Dies ist hilfreich für unterschiedliche Rollen, Aufgaben oder Anwendungsfälle (z. B. kompakte vs. erweiterte Ansicht).
 
@@ -76,7 +76,7 @@ Die Spaltensichtauswahl ermöglicht das Speichern und Umschalten zwischen versch
 
 ---
 
-### 2.2 Spaltenmenü
+### Spaltenmenü
 
 Mit dem Spaltenmenü steuern Nutzer\:innen, welche Spalten im Grid angezeigt und wie diese angeordnet werden sollen.
 
@@ -114,9 +114,9 @@ Mit dem Spaltenmenü steuern Nutzer\:innen, welche Spalten im Grid angezeigt und
 
 ---
 
-## 3. Hauptteil: Tabellarische Daten & Zeilenfunktionen
+## Hauptteil: Tabellarische Daten & Zeilenfunktionen
 
-### 3.1 Interaktive Zeilenfunktionen
+### Interaktive Zeilenfunktionen
 
 Jede Zeile im Grid stellt einen vollständigen Datensatz dar. Zahlreiche Felder verfügen über **kontextbezogene Interaktionen**:
 
@@ -155,7 +155,7 @@ Jede Zeile im Grid stellt einen vollständigen Datensatz dar. Zahlreiche Felder 
 
 ---
 
-### 3.2 Suchfunktion in Tabellenfeldern
+### Suchfunktion in Tabellenfeldern
 
 In allen Tabellenfeldern steht Ihnen eine komfortable Suchfunktion zur Verfügung.
 Sie können Begriffe eingeben und die Suche mit Platzhaltern flexibel gestalten.
@@ -190,7 +190,7 @@ Sie können Begriffe eingeben und die Suche mit Platzhaltern flexibel gestalten.
 
 ---
 
-### 3.3 Zeilenfunktionen
+### Zeilenfunktionen
 
 - **Direkte Bearbeitung (rollenabhängig)**  
   Bei ausreichenden Rechten kann ein Spaltenwert direkt im Grid angeklickt werden. Ein kleines Popup erlaubt die Änderung.
@@ -204,7 +204,7 @@ Sie können Begriffe eingeben und die Suche mit Platzhaltern flexibel gestalten.
 - **Zeilenmarker**  
   Am Zeilenanfang befindet sich meist eine Checkbox, um mehrere Datensätze zu markieren und anschließend gemeinsam zu bearbeiten, zu löschen oder zu exportieren.
 
-### 3.4 Gridbezogene Schaltflächen (unterer Detailbereich)
+### Gridbezogene Schaltflächen (unterer Detailbereich)
 
 Unmittelbar **oberhalb** der Paginierung können je nach Modul weitere Schaltflächen angezeigt werden, mit denen Sie *markierte* Datensätze gemeinsam bearbeiten:
 
@@ -241,7 +241,7 @@ Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
 
 ---
 
-### 4. Fußbereich
+### Fußbereich
 
 Im **Fußbereich** des Grids werden vor allem **Navigations- und Anzeigeoptionen** bereitgestellt:
 
@@ -254,7 +254,7 @@ Im **Fußbereich** des Grids werden vor allem **Navigations- und Anzeigeoptionen
 
 ---
 
-## 5. Zusammenfassung
+## Zusammenfassung
 
 Die modulare Grid-Struktur von **calServer** bietet:
 

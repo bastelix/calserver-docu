@@ -8,15 +8,15 @@ layout: page
 # Hauptmenü und Navigation
 {% include toc.html %}
 
-## 1.1 Einführung
+## Einführung
 
 Das Hauptmenü und die Navigation in calServer sind darauf ausgelegt, eine effiziente und benutzerfreundliche Bedienung zu ermöglichen. Nutzende können schnell auf relevante Funktionen zugreifen und das System nach ihren Bedürfnissen anpassen. Die Navigation erfolgt über eine klar strukturierte Seitenleiste, die sich je nach Nutzerrolle dynamisch anpassen kann.
 
-## 1.2 Benutzerrollen und Sichtbarkeit
+## Benutzerrollen und Sichtbarkeit
 
 Das Hauptmenü ist rollenbasiert aufgebaut, was bedeutet, dass abhängig von den vergebenen Berechtigungen bestimmte Menüpunkte ein- oder ausgeblendet werden. Dies stellt sicher, dass Nutzende nur die für sie relevanten Funktionen sehen und die Benutzeroberfläche übersichtlich bleibt.
 
-## 1.3 Bedienkonzept
+## Bedienkonzept
 
 Die Navigation erfolgt über die linke Seitenleiste, die alle Hauptmodule enthält. Diese kann durch das Hamburgermenü ein- und ausgeklappt werden.
 
@@ -31,13 +31,13 @@ Die Navigation erfolgt über die linke Seitenleiste, die alle Hauptmodule enthä
 
 *Übersicht der Menüelemente*
 
-## 1.4 Anpassungsmöglichkeiten
+## Anpassungsmöglichkeiten
 
 - Die Menüstruktur kann je nach Unternehmensanforderung individuell konfiguriert werden.
 - In den Grundeinstellungen lassen sich CI-Elemente wie der Systemname anpassen.
 - Rollenbasierte Zugriffsrechte steuern, welche Nutzenden welche Menüpunkte sehen.
 
-## 1.5 Hauptmenübaum
+## Hauptmenübaum
 
 Das Hauptmenü von calServer ist die zentrale Navigationsstruktur und ermöglicht schnellen Zugriff auf die verschiedenen Module. Die Anzeige der Menüeinträge kann **rollenbasiert** angepasst werden, sodass Nutzende nur die für sie relevanten Funktionen sehen.
 
@@ -112,21 +112,21 @@ Das Hauptmenü von calServer ist die zentrale Navigationsstruktur und ermöglich
 
 ---
 
-# 2. Navigation im System
+# Navigation im System
 
-## 2.1 Hauptnavigation (Seitenleiste)
+## Hauptnavigation (Seitenleiste)
 
 | Funktionen |
 | ---------- |
 | Das **Hauptmenü befindet sich links** und bleibt während der Nutzung sichtbar.<br>Durch einen Klick auf eine **Hauptkategorie** öffnet sich das zugehörige **Untermenü**.<br>Icons und Bezeichnungen erleichtern die schnelle Orientierung.<br>Nicht benötigte Menüeinträge können je nach **Rollen- und Berechtigungskonfiguration** ausgeblendet sein. |
 
-## 2.2 Top-Navigationsleiste (Infoleiste)
+## Top-Navigationsleiste (Infoleiste)
 
 | Funktionen |
 | ---------- |
 | Anzeige wichtiger **Systemmeldungen, Benachrichtigungen und Aufgaben**.<br>Zugriff auf das **Benutzerprofil und persönliche Einstellungen**.<br>Möglichkeit zum **schnellen Wechsel zwischen Hauptfunktionen** |
 
-## 2.3 Navigation auf der Seite
+## Navigation auf der Seite
 
 | Funktionen |
 | ---------- |

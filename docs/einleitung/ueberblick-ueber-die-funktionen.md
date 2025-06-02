@@ -12,7 +12,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 1. Allgemeine Systemfunktionen
+## Allgemeine Systemfunktionen
 
 - **Responsive Design** – Optimale Darstellung auf jedem Endgerät
 - **Mehrsprachigkeit** – Anpassbare Übersetzungen für internationale Nutzung
@@ -20,7 +20,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 2. Startcenter & Dashboards
+## Startcenter & Dashboards
 
 - **Individuelle Dashboards** – Nutzerbezogen konfigurierbare Startseiten
 - **Globale Dashboards** – Freigabe von Dashboards für Teams
@@ -28,7 +28,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 3. Inventarverwaltung
+## Inventarverwaltung
 
 - **Dynamische Inventartabellen** – Nutzerbezogene Spaltenanpassung
 - **Echtzeitsuche & Filter** – Erweiterte Suchfunktionen mit Statusfarben
@@ -38,7 +38,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 4. Kalibrierverwaltung
+## Kalibrierverwaltung
 
 - **Kalibrierstatus-Verwaltung** – Individuelle Statusvergabe mit Detaillog
 - **Automatische Benachrichtigungen** bei Statusänderungen
@@ -48,7 +48,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 5. Aufgabenmanagement
+## Aufgabenmanagement
 
 - **Inventar-Favoritenliste** – Schnellzugriff auf ausgewählte Geräte
 - **Kommentarfunktion für Inventare** – Anmerkungen zu Geräten hinzufügen
@@ -56,7 +56,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 6. Standorte
+## Standorte
 
 - **Kalendergestützte Reservierung** – Planung und Verwaltung von Messmitteln
 - **Drag & Drop-Reservierung** aus auswählbaren Listen
@@ -65,7 +65,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 7. Auftragsmanagement
+## Auftragsmanagement
 
 - **Bestellübersicht & Statusverfolgung**
 - **Verhandlungsmanagement** – Ablaufsteuerung zur Freigabe oder Stornierung
@@ -74,7 +74,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 8. Reporting & Berichte
+## Reporting & Berichte
 
 - **Individuelle Listen & Vorlagen** zur Auswertung
 - **Export in PDF, CSV, XLSX oder direkter Druck**
@@ -83,7 +83,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 9. Dokumentenmanagement
+## Dokumentenmanagement
 
 - **Automatische Integration von Kalibrierscheinen** in die Übersicht
 - **Versionsverwaltung für Dokumente** zu Inventaren und Kalibrierungen
@@ -91,7 +91,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 10. Benutzerverwaltung & Berechtigungssystem
+## Benutzerverwaltung & Berechtigungssystem
 
 - **Registrierung neuer Benutzer mit AGB-Bestätigung**
 - **Benutzerprofile mit individuellen Einstellungen**
@@ -100,7 +100,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 11. Kundenverwaltung
+## Kundenverwaltung
 
 - **Verwaltung von Unternehmens- & Kundenprofilen**
 - **Kundenindividuelle Inventarzuweisung & Detailinformationen**
@@ -108,7 +108,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 12. Angebots- & Rechnungsverwaltung
+## Angebots- & Rechnungsverwaltung
 
 - **Kostenvoranschläge & Preismanagement**
 - **Statusverfolgung von Angeboten & Bestellungen**
@@ -116,7 +116,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 13. API & Schnittstellen
+## API & Schnittstellen
 
 - **REST API zur Integration mit anderen Systemen** (siehe **Kapitel 8.5 REST API**)
 - **Automatisierte Datensynchronisation** mit externen Anwendungen
@@ -124,7 +124,7 @@ calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerro
 
 ---
 
-## 14. Sicherheit & Benachrichtigungen
+## Sicherheit & Benachrichtigungen
 
 - **Email-Benachrichtigungen bei neuen Anmeldungen & Fehlern**
 - **Debugmodus zur Fehleranalyse**

@@ -41,10 +41,12 @@ nav.toc ul {
 /* TOC styling for medium and large screens */
 @media screen and (min-width: 60rem) {
   nav.toc {
-    float: right;
-    width: 18rem;
-    margin-left: 2rem;
-    position: sticky;
+    position: fixed;
+    right: 2rem;
     top: 4rem;
+    width: 18rem;
+  }
+  main {
+    margin-right: 20rem;
   }
 }
