@@ -50,14 +50,25 @@ nav.toc ul {
 /* TOC styling for medium and large screens */
 @media screen and (min-width: 60rem) {
   nav.toc {
-    position: fixed;
-    right: 2rem;
+    position: sticky;
     top: 4rem;
+    right: 2rem;
     width: 14rem;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
   }
   main {
     margin-right: 16rem;
   }
+}
+
+/* Offset headings to account for sticky navigation */
+h2,
+h3,
+h4,
+h5,
+h6 {
+  scroll-margin-top: 4rem;
 }
 
 /* Callout styles */
