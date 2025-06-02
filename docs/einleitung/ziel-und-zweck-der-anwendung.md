@@ -6,6 +6,7 @@ layout: page
 ---
 
 # Ziel und Zweck der Anwendung
+{% include toc.html %}
 
 ## Einführung
 

@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Dateien
+{% include toc.html %}
 
 Noch in Bearbeitung.

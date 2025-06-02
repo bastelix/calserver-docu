@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Grundeinstellungen
+{% include toc.html %}
 
 Noch in Bearbeitung.

@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Hilfeverwaltung
+{% include toc.html %}
 
 Noch in Bearbeitung.

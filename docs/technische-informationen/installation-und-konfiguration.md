@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Installation und Konfiguration
+{% include toc.html %}
 
 Noch in Bearbeitung.

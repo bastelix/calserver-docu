@@ -6,6 +6,7 @@ layout: page
 ---
 
 # Systemanforderungen
+{% include toc.html %}
 
 calServer ist eine **webbasierte Cloud-Anwendung**, die in einer Container-Umgebung bereitgestellt wird. Um eine reibungslose Nutzung zu gewährleisten, müssen bestimmte **Systemanforderungen** erfüllt sein. Diese Anforderungen sind abhängig von der **Hosting-Umgebung**, der **Anzahl der Anwendenden** und der **Nutzungsintensität**.
 

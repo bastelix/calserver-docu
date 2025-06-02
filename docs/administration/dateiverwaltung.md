@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Dateiverwaltung
+{% include toc.html %}
 
 Noch in Bearbeitung.

@@ -6,5 +6,6 @@ layout: page
 ---
 
 # CalServer interne Hilfsfunktionen
+{% include toc.html %}
 
 Noch in Bearbeitung.

@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Wartung und Reparaturen
+{% include toc.html %}
 
 Noch in Bearbeitung.

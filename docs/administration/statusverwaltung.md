@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Statusverwaltung
+{% include toc.html %}
 
 Noch in Bearbeitung.

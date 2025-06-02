@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Systemanforderungen
+{% include toc.html %}
 
 Noch in Bearbeitung.

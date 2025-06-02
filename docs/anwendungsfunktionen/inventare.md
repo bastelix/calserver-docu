@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Inventare
+{% include toc.html %}
 
 Noch in Bearbeitung.

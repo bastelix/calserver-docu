@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Informationsverwaltung
+{% include toc.html %}
 
 Noch in Bearbeitung.
