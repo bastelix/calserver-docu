@@ -6,7 +6,6 @@ permalink: /kontakt/
 ---
 
 # Kontakt
-{% include toc.html %}
 
 Vereinbaren Sie einen kostenlosen Rückruf mit uns oder stellen Sie eine Anfrage \
 über das Kontaktformular. Als Kunde können Sie hier direkt auf unser \

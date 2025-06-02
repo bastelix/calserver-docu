@@ -5,7 +5,6 @@ nav_order: 10
 ---
 
 # Versionshinweise
-{% include toc.html %}
 
 Hier finden Sie eine Übersicht der wichtigsten Änderungen und Versionshinweise zu calServer.
 

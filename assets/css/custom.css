@@ -57,8 +57,20 @@ nav.toc ul {
     max-height: calc(100vh - 4rem);
     overflow-y: auto;
   }
-  main {
+main {
     margin-right: 16rem;
+  }
+}
+
+/* Use full width on large screens */
+main {
+  max-width: none;
+}
+
+/* Hide TOC on small screens */
+@media screen and (max-width: 59.99rem) {
+  nav.toc {
+    display: none;
   }
 }
 

@@ -6,7 +6,6 @@ layout: page
 ---
 
 # Hauptmenü und Navigation
-{% include toc.html %}
 {% include reading_time.html %}
 
 ## Einführung

@@ -6,7 +6,6 @@ layout: page
 ---
 
 # Startcenter
-{% include toc.html %}
 {% include reading_time.html %}
 
 Das Startcenter ist die zentrale Benutzeroberfläche des calServer-Systems. Es dient als personalisierbarer Einstiegspunkt und ermöglicht die individuelle Zusammenstellung von Dashboards mit Infoelementen (Widgets).

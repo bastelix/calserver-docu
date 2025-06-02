@@ -8,7 +8,6 @@ permalink: /index.html
 *Stand: 2025-05-26*
 
 # Willkommen zum calServer Manual
-{% include toc.html %}
 
 **Herzlich willkommen zur offiziellen Dokumentation von calServer!**
 
