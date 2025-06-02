@@ -7,6 +7,7 @@ layout: page
 
 # Überblick über die Funktionen
 {% include toc.html %}
+{% include bookmarks.html %}
 
 calServer bietet eine Vielzahl an Modulen und Funktionen, die je nach Benutzerrolle individuell konfiguriert und kombiniert werden können. Die folgende Übersicht beschreibt die wichtigsten Systemfunktionen in verschiedenen Kategorien.
 

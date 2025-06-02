@@ -7,6 +7,7 @@ layout: page
 
 # Ziel und Zweck der Anwendung
 {% include toc.html %}
+{% include bookmarks.html %}
 
 ## Einführung
 
