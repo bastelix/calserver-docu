@@ -29,8 +29,17 @@ table .marker {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-/* TOC styling for large screens */
-@media screen and (min-width: 70rem) {
+/* Basic TOC styling */
+nav.toc {
+  margin-bottom: 1rem;
+}
+nav.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+/* TOC styling for medium and large screens */
+@media screen and (min-width: 60rem) {
   nav.toc {
     float: right;
     width: 18rem;
