@@ -214,6 +214,28 @@ Unmittelbar **oberhalb** der Paginierung können je nach Modul weitere Schaltfl�
 - **Löschen**: Entfernt die markierten Einträge (abhängig von Berechtigungen).
 - **Weitere Modulaktionen**: Z. B. Statuswechsel, Etikettendruck, Kalibrierung anstoßen etc.
 
+**Wichtig**: Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
+
+## Referenzdarstellung
+
+Nachfolgend ein Screenshot zur Veranschaulichung der beschriebenen Elemente:
+
+![Grid Übersicht]({{ '/assets/img/benutzeroberflaeche/grid-uebersicht.png' | relative_url }})
+{: .mb-4 }
+
+*Screenshot mit den markierten Elementen <span class="marker">①</span>–<span class="marker">⑥</span>*
+
+## Erklärung der markierten Elemente im Screenshot
+
+| Nr. | Bezeichnung | Funktionale Erklärung |
+| --- | ----------- | -------------------- |
+| <span class="marker">①</span> | **Spaltensichtauswahl** | Wechsel zwischen gespeicherten Spaltenansichten. |
+| <span class="marker">②</span> | **Spaltenmenü** | Steuerung der sichtbaren Spalten und deren Reihenfolge. |
+| <span class="marker">③</span> | **Filterzeilen** | Eingrenzung der Datensätze direkt im Grid. |
+| <span class="marker">④</span> | **Zeilenaktionsmenü** | Kontextmenü für Bearbeitungsoptionen einzelner Datensätze. |
+| <span class="marker">⑤</span> | **Sammelaktionsleiste** | Aktionen für alle markierten Zeilen. |
+| <span class="marker">⑥</span> | **Paginierung** | Navigation zwischen den Seiten des Grids. |
+=======
 > **Wichtig:** Diese Schaltflächen werden erst aktiv, wenn mindestens eine Zeile angehakt wurde und die Nutzerrolle das Ausführen dieser Aktionen zulässt.
 {: .important }
 

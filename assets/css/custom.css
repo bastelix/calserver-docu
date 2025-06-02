@@ -1,4 +1,10 @@
 .marker {
+  font-size: 1.5em;
+  line-height: 1;
+}
+
+/* markers inside tables should appear larger */
+table .marker {
   font-size: 2em;
   line-height: 1;
 }
