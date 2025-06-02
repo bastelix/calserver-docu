@@ -7,7 +7,7 @@ layout: page
 
 # Berichtsverwaltung
 {% include toc.html %}
-{% include bookmarks.html %}
+{% include reading_time.html %}
 
 > **Hinweis:** Diese Seite befindet sich noch in Bearbeitung.
 {: .note }

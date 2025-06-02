@@ -7,7 +7,7 @@ layout: page
 
 # Grid-Funktionen in calServer
 {% include toc.html %}
-{% include bookmarks.html %}
+{% include reading_time.html %}
 
 ## Grundlegender Aufbau des Grids
 
