@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Steuerungen
+{% include toc.html %}
 
 Noch in Bearbeitung.

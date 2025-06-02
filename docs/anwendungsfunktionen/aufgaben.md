@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Aufgaben
+{% include toc.html %}
 
 Noch in Bearbeitung.

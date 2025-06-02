@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Verwaltung der Zugriffssicherheit und Sicherheitsprotokolle
+{% include toc.html %}
 
 Noch in Bearbeitung.

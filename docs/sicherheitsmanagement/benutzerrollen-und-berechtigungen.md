@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Benutzerrollen und Berechtigungen
+{% include toc.html %}
 
 Noch in Bearbeitung.

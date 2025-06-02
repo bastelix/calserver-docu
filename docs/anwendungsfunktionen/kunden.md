@@ -6,5 +6,6 @@ layout: page
 ---
 
 # Kunden
+{% include toc.html %}
 
 Noch in Bearbeitung.
