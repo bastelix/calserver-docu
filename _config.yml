@@ -30,6 +30,21 @@ aux_links:
   "Kontakt": https://bastelix.github.io/calserver-docu/kontakt/
 aux_links_new_tab: true
 
+# Enable table of contents generation using jekyll-toc
+plugins:
+  - jekyll-toc
+
+toc:
+  min_level: 2
+  max_level: 3
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      toc: true
+
 # Exclude repository README from the generated site
 exclude:
   - README.md
