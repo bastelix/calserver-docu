@@ -56,14 +56,18 @@ nav.toc ul {
     width: 14rem;
     max-height: calc(100vh - 4rem);
     overflow-y: auto;
+    float: right;
+    margin-left: 1rem;
   }
-main {
-    margin-right: 16rem;
+  main {
+    margin-right: 0;
   }
 }
 
 /* Use full width on large screens */
-main {
+main,
+.main-content,
+.main-content-wrap {
   max-width: none;
 }
 
