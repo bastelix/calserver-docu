@@ -7,6 +7,7 @@ layout: page
 
 # Installation und Konfiguration
 {% include toc.html %}
+{% include bookmarks.html %}
 
 > **Hinweis:** Diese Seite befindet sich noch in Bearbeitung.
 {: .note }

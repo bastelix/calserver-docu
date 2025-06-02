@@ -7,6 +7,7 @@ layout: page
 
 # Verwaltung der Zugriffssicherheit und Sicherheitsprotokolle
 {% include toc.html %}
+{% include bookmarks.html %}
 
 > **Hinweis:** Diese Seite befindet sich noch in Bearbeitung.
 {: .note }

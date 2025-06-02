@@ -38,16 +38,25 @@ nav.toc ul {
   padding-left: 0;
 }
 
+.bookmarks {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1rem;
+}
+.bookmarks li {
+  margin-bottom: 0.25rem;
+}
+
 /* TOC styling for medium and large screens */
 @media screen and (min-width: 60rem) {
   nav.toc {
     position: fixed;
     right: 2rem;
     top: 4rem;
-    width: 18rem;
+    width: 14rem;
   }
   main {
-    margin-right: 20rem;
+    margin-right: 16rem;
   }
 }
 
