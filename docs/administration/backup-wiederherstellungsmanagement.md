@@ -7,7 +7,7 @@ layout: page
 
 # Backup- und Wiederherstellungsmanagement
 {% include toc.html %}
-{% include bookmarks.html %}
+{% include reading_time.html %}
 
 > **Hinweis:** Diese Seite befindet sich noch in Bearbeitung.
 {: .note }

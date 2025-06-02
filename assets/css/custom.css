@@ -90,3 +90,8 @@ nav.toc ul {
   background-color: #fff8e5;
   border-color: #f0ad4e;
 }
+
+.reading-time {
+  font-style: italic;
+  margin-bottom: 1rem;
+}
