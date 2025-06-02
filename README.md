@@ -3,6 +3,7 @@
 *Stand: 2025-05-26*
 
 Dies ist die Dokumentation zu **calServer**. Das Projekt nutzt GitHub Pages, um die Handbücher und technischen Informationen bereitzustellen. Die jeweils aktuelle Version des Handbuchs ist über GitHub Pages erreichbar: [https://bastelix.github.io/calserver-docu](https://bastelix.github.io/calserver-docu).
+Der unter `.github/workflows/jekyll-gh-pages.yml` abgelegte GitHub-Actions-Workflow folgt der Vorlage aus dem Repository [actions/starter-workflows/pages](https://github.com/actions/starter-workflows/tree/main/pages), wo Maintainer Aktualisierungen oder alternative Setups finden können.
 
 ## Willkommen zum calServer Manual
 
