@@ -9,3 +9,5 @@ has_children: True
 {% include toc.html %}
 
 Dieses Kapitel bietet Ihnen einen kompakten, praxisnahen Einstieg in die zentralen Arbeitsabläufe von calServer – von der Datenerfassung über die systematische Grundeinrichtung bis hin zur Nutzerverwaltung.
+
+{% include children.html %}
